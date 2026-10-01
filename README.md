@@ -21,14 +21,14 @@ Four purchase orders from a single vendor arrived 22–27 days late in February�
 
 The root cause is concentration: **MS Plates come from this vendor on 17 of 17 purchase orders**, with no second source. Steel Scrap, which is split 50/50 between two vendors, recovered faster.
 
-![Steel Scrap stock vs delayed orders](images/finding1_supply_break.png)
+![Steel Scrap stock vs delayed orders](finding1_supply_break.png)
 
 ### 2. Purchasing didn't follow the sugar season down
 **Sales → Store → Purchase**
 
 Sugar-mill orders fell **93%** from January to June as the crushing season ended, and consumption of the two sugar-line raw materials fell with them. Purchasing kept buying: **17 more purchase orders (25,178 kg) were placed after demand collapsed.** Pig Iron stock rose 774% and Ferro Manganese 1,004%, leaving **₹9 lakh of working capital** in stock with 6–8 months of cover.
 
-![Sugar demand vs raw material stock](images/finding2_seasonal_mismatch.png)
+![Sugar demand vs raw material stock](finding2_seasonal_mismatch.png)
 
 ### 3. Input cost rises reached the price list two months late
 Ferro Chrome, the main alloying input for crusher liners, rose 37% between January and April. The crusher liner selling price didn't move until April, so the margin in between was absorbed.
@@ -44,7 +44,7 @@ Nine checks were run before any analysis. Every issue was logged with its eviden
 | 4 ledger rows with wrong quantities (sign reversals and unsaved values) | January Steel Scrap consumption understated by 1,153 kg | Recovered true values from the running-balance column (99.66% of rows reconcile) |
 | 161 orders marked "Fulfilled" but dispatched 1–3 days late | On-time delivery reads **86%**; the real figure is **41%** | Measured on-time delivery from dates, not the status field |
 
-![On-time delivery gap](images/on_time_delivery_gap.png)
+![On-time delivery gap](on_time_delivery_gap.png)
 
 Three things that looked like errors were confirmed as correct: 7 purchase orders without delivery dates were still in transit at the cut-off, 29 sales orders without dispatch dates were all Pending or Cancelled, and 6 store entries after 30 June were production completions from a slightly later extract.
 
@@ -58,34 +58,32 @@ Three things that looked like errors were confirmed as correct: 7 purchase order
 
 Also: report on-time delivery from actual dispatch dates rather than the status field.
 
-Full write-up: [reports/findings_summary.md](reports/findings_summary.md)
+Full write-up: [findings_summary.md](findings_summary.md)
 
 ## Approach
 
 | Step | Notebook | What it does |
 |---|---|---|
-| 1 | [`01_data_quality_audit.ipynb`](notebooks/01_data_quality_audit.ipynb) | Profiles the three sheets, runs nine quality checks, builds an issue log, exports cleaned tables |
-| 2 | [`02_cross_department_sql_analysis.ipynb`](notebooks/02_cross_department_sql_analysis.ipynb) | Loads the cleaned tables into SQLite and joins purchase → inventory → sales using CTEs, window functions and conditional aggregation; produces the charts |
+| 1 | [`01_data_quality_audit.ipynb`](01_data_quality_audit.ipynb) | Profiles the three sheets, runs nine quality checks, builds an issue log, exports cleaned tables |
+| 2 | [`02_cross_department_sql_analysis.ipynb`](02_cross_department_sql_analysis.ipynb) | Loads the cleaned tables into SQLite and joins purchase → inventory → sales using CTEs, window functions and conditional aggregation; produces the charts |
 
-## Repository structure
+## Repository contents
 
-```
-├── data/
-│   ├── raw/case_study_datasets.xlsx      # Purchase, Store_Inventory, Sales sheets
-│   └── processed/                        # Cleaned CSVs, issue log, SQL results, chart data
-├── notebooks/
-│   ├── 01_data_quality_audit.ipynb
-│   └── 02_cross_department_sql_analysis.ipynb
-├── images/                               # Charts used in this README
-├── reports/findings_summary.md           # Business-facing write-up
-└── requirements.txt
-```
+| File | What it is |
+|---|---|
+| `case_study_datasets.xlsx` | Raw data: Purchase, Store_Inventory and Sales sheets |
+| `01_data_quality_audit.ipynb` | Step 1: nine quality checks, issue log, cleaned tables |
+| `02_cross_department_sql_analysis.ipynb` | Step 2: SQL analysis across the three departments, plus charts |
+| `clean_purchase.csv`, `clean_store_inventory.csv`, `clean_sales.csv` | Cleaned tables written by notebook 01 |
+| `cleaned_data_with_issue_log.xlsx` | Cleaned data and the full issue log in one workbook |
+| `sql_results.xlsx`, `chart_data.xlsx` | Query results and chart series |
+| `findings_summary.md` | Business-facing write-up |
+| `*.png` | Charts used in this README |
 
 ## How to run
 
 ```bash
 pip install -r requirements.txt
-cd notebooks
 jupyter notebook
 ```
 

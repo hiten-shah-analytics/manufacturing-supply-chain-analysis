@@ -37,7 +37,7 @@ The average customer delay of 21.9 days is close to the average vendor delay of 
 
 **Why leadership should care.** A single vendor's performance became a service failure for 12 customers in the cement, mining and power segments. The cause is concentrated and fixable: MS Plates are sourced entirely from Coastal Steel Traders (17 of 17 purchase orders), with no alternative supplier. Steel Scrap, split evenly between Coastal and Hilltop Scrap & Metals, recovered faster because a second source was available.
 
-![Finding 1](../images/finding1_supply_break.png)
+![Finding 1](finding1_supply_break.png)
 
 ## 3. Finding 2: Purchasing did not follow the sugar season down
 
@@ -58,7 +58,7 @@ The result is stock with no immediate use:
 
 **Why leadership should care.** About ₹9.0 lakh of working capital is tied up in materials that, at current consumption, will not be used for six to seven months. The next crushing season begins around October, so this stock has no demand against it until then. The seasonal pattern is well known to the business; the purchasing plan simply is not linked to it.
 
-![Finding 2](../images/finding2_seasonal_mismatch.png)
+![Finding 2](finding2_seasonal_mismatch.png)
 
 ## 4. Supporting observation: a two-month lag in repricing
 
