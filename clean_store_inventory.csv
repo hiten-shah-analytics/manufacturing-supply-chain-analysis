@@ -1,0 +1,1202 @@
+Txn_ID,Txn_Date,Item_Code,Item_Name,Item_Type,Movement_Type,Quantity,Store_Zone,Balance_After_Txn,Linked_PO_ID,Linked_Sales_Order_ID,Signed_Quantity
+ST-00001,2026-01-02,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,927,WIP Floor,3022,,,-927
+ST-00002,2026-01-06,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,893,WIP Floor,2129,,,-893
+ST-00003,2026-01-10,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1153,WIP Floor,976,,,-1153
+ST-00004,2026-01-11,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2809,Raw Material Store,3785,PO-0001,,2809
+ST-00005,2026-01-15,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1087,WIP Floor,2698,,,-1087
+ST-00006,2026-01-20,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1096,WIP Floor,1602,,,-1096
+ST-00007,2026-01-25,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,858,WIP Floor,744,,,-858
+ST-00008,2026-01-28,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2971,Raw Material Store,3715,PO-0002,,2971
+ST-00009,2026-01-29,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1276,WIP Floor,2439,,,-1276
+ST-00010,2026-02-04,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,958,WIP Floor,1481,,,-958
+ST-00011,2026-02-07,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,1865,Raw Material Store,3346,PO-0003,,1865
+ST-00012,2026-02-08,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,846,WIP Floor,2500,,,-846
+ST-00013,2026-02-12,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1160,WIP Floor,1340,,,-1160
+ST-00014,2026-02-14,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,1684,Raw Material Store,3024,PO-0004,,1684
+ST-00015,2026-02-17,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1051,WIP Floor,1973,,,-1051
+ST-00016,2026-02-22,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1325,WIP Floor,648,,,-1325
+ST-00017,2026-02-25,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2901,Raw Material Store,3549,PO-0005,,2901
+ST-00018,2026-02-28,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,964,WIP Floor,2585,,,-964
+ST-00019,2026-03-04,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,942,WIP Floor,1643,,,-942
+ST-00020,2026-03-08,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1159,WIP Floor,484,,,-1159
+ST-00021,2026-03-13,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,484,WIP Floor,0,,,-484
+ST-00022,2026-03-23,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2233,Raw Material Store,2233,PO-0007,,2233
+ST-00023,2026-03-23,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,858,WIP Floor,1375,,,-858
+ST-00024,2026-03-27,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1051,WIP Floor,324,,,-1051
+ST-00025,2026-04-01,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,324,WIP Floor,0,,,-324
+ST-00026,2026-04-03,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2227,Raw Material Store,2227,PO-0006,,2227
+ST-00027,2026-04-03,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2425,Raw Material Store,4652,PO-0008,,2425
+ST-00028,2026-04-05,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1278,WIP Floor,3374,,,-1278
+ST-00029,2026-04-11,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1369,WIP Floor,2005,,,-1369
+ST-00030,2026-04-17,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,858,WIP Floor,1147,,,-858
+ST-00031,2026-04-21,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1147,WIP Floor,0,,,-1147
+ST-00032,2026-04-22,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,1821,Raw Material Store,1821,PO-0009,,1821
+ST-00033,2026-04-27,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,927,WIP Floor,894,,,-927
+ST-00034,2026-04-30,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,3183,Raw Material Store,4077,PO-0010,,3183
+ST-00035,2026-05-01,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1384,WIP Floor,2693,,,-1384
+ST-00036,2026-05-07,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1102,WIP Floor,1591,,,-1102
+ST-00037,2026-05-10,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,3109,Raw Material Store,4700,PO-0011,,3109
+ST-00038,2026-05-12,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,900,WIP Floor,3800,,,-900
+ST-00039,2026-05-16,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1123,WIP Floor,2677,,,-1123
+ST-00040,2026-05-20,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2611,Raw Material Store,5288,PO-0012,,2611
+ST-00041,2026-05-21,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1262,WIP Floor,4026,,,-1262
+ST-00042,2026-05-27,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1421,WIP Floor,2605,,,-1421
+ST-00043,2026-06-02,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2808,Raw Material Store,5413,PO-0013,,2808
+ST-00044,2026-06-02,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,871,WIP Floor,4542,,,-871
+ST-00045,2026-06-06,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,906,WIP Floor,3636,,,-906
+ST-00046,2026-06-10,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,919,WIP Floor,2717,,,-919
+ST-00047,2026-06-13,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,1681,Raw Material Store,4398,PO-0014,,1681
+ST-00048,2026-06-14,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1269,WIP Floor,3129,,,-1269
+ST-00049,2026-06-20,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1195,WIP Floor,1934,,,-1195
+ST-00050,2026-06-25,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1193,WIP Floor,741,,,-1193
+ST-00051,2026-06-28,RM-SS,Steel Scrap,Raw Material,Inward-Purchase,2053,Raw Material Store,2794,PO-0015,,2053
+ST-00052,2026-06-30,RM-SS,Steel Scrap,Raw Material,Issued-to-Production,1434,WIP Floor,1360,,,-1434
+ST-00053,2026-01-05,RM-MS,MS Plates,Raw Material,Issued-to-Production,569,WIP Floor,1569,,,-569
+ST-00054,2026-01-10,RM-MS,MS Plates,Raw Material,Issued-to-Production,476,WIP Floor,1093,,,-476
+ST-00055,2026-01-14,RM-MS,MS Plates,Raw Material,Issued-to-Production,507,WIP Floor,586,,,-507
+ST-00056,2026-01-17,RM-MS,MS Plates,Raw Material,Inward-Purchase,1291,Raw Material Store,1877,PO-0017,,1291
+ST-00057,2026-01-18,RM-MS,MS Plates,Raw Material,Issued-to-Production,757,WIP Floor,1120,,,-757
+ST-00058,2026-01-24,RM-MS,MS Plates,Raw Material,Issued-to-Production,565,WIP Floor,555,,,-565
+ST-00059,2026-01-25,RM-MS,MS Plates,Raw Material,Inward-Purchase,908,Raw Material Store,1463,PO-0018,,908
+ST-00060,2026-01-29,RM-MS,MS Plates,Raw Material,Issued-to-Production,706,WIP Floor,757,,,-706
+ST-00061,2026-02-01,RM-MS,MS Plates,Raw Material,Inward-Purchase,1925,Raw Material Store,2682,PO-0019,,1925
+ST-00062,2026-02-04,RM-MS,MS Plates,Raw Material,Issued-to-Production,505,WIP Floor,2177,,,-505
+ST-00063,2026-02-08,RM-MS,MS Plates,Raw Material,Issued-to-Production,509,WIP Floor,1668,,,-509
+ST-00064,2026-02-12,RM-MS,MS Plates,Raw Material,Issued-to-Production,698,WIP Floor,970,,,-698
+ST-00065,2026-02-15,RM-MS,MS Plates,Raw Material,Inward-Purchase,1161,Raw Material Store,2131,PO-0020,,1161
+ST-00066,2026-02-18,RM-MS,MS Plates,Raw Material,Issued-to-Production,482,WIP Floor,1649,,,-482
+ST-00067,2026-02-22,RM-MS,MS Plates,Raw Material,Issued-to-Production,610,WIP Floor,1039,,,-610
+ST-00068,2026-02-25,RM-MS,MS Plates,Raw Material,Inward-Purchase,1206,Raw Material Store,2245,PO-0021,,1206
+ST-00069,2026-02-27,RM-MS,MS Plates,Raw Material,Issued-to-Production,576,WIP Floor,1669,,,-576
+ST-00070,2026-03-04,RM-MS,MS Plates,Raw Material,Issued-to-Production,471,WIP Floor,1198,,,-471
+ST-00071,2026-03-08,RM-MS,MS Plates,Raw Material,Issued-to-Production,515,WIP Floor,683,,,-515
+ST-00072,2026-03-12,RM-MS,MS Plates,Raw Material,Issued-to-Production,646,WIP Floor,37,,,-646
+ST-00073,2026-03-17,RM-MS,MS Plates,Raw Material,Issued-to-Production,37,WIP Floor,0,,,-37
+ST-00074,2026-03-31,RM-MS,MS Plates,Raw Material,Inward-Purchase,1963,Raw Material Store,1963,PO-0022,,1963
+ST-00075,2026-04-01,RM-MS,MS Plates,Raw Material,Issued-to-Production,706,WIP Floor,1257,,,-706
+ST-00076,2026-04-07,RM-MS,MS Plates,Raw Material,Issued-to-Production,763,WIP Floor,494,,,-763
+ST-00077,2026-04-08,RM-MS,MS Plates,Raw Material,Inward-Purchase,895,Raw Material Store,1389,PO-0023,,895
+ST-00078,2026-04-11,RM-MS,MS Plates,Raw Material,Inward-Purchase,1391,Raw Material Store,2780,PO-0025,,1391
+ST-00079,2026-04-13,RM-MS,MS Plates,Raw Material,Issued-to-Production,591,WIP Floor,2189,,,-591
+ST-00080,2026-04-18,RM-MS,MS Plates,Raw Material,Issued-to-Production,457,WIP Floor,1732,,,-457
+ST-00081,2026-04-19,RM-MS,MS Plates,Raw Material,Inward-Purchase,1579,Raw Material Store,3311,PO-0026,,1579
+ST-00082,2026-04-22,RM-MS,MS Plates,Raw Material,Issued-to-Production,570,WIP Floor,2741,,,-570
+ST-00083,2026-04-25,RM-MS,MS Plates,Raw Material,Inward-Purchase,1167,Raw Material Store,3908,PO-0024,,1167
+ST-00084,2026-04-27,RM-MS,MS Plates,Raw Material,Issued-to-Production,467,WIP Floor,3441,,,-467
+ST-00085,2026-04-28,RM-MS,MS Plates,Raw Material,Inward-Purchase,1025,Raw Material Store,4466,PO-0027,,1025
+ST-00086,2026-05-01,RM-MS,MS Plates,Raw Material,Issued-to-Production,632,WIP Floor,3834,,,-632
+ST-00087,2026-05-06,RM-MS,MS Plates,Raw Material,Issued-to-Production,649,WIP Floor,3185,,,-649
+ST-00088,2026-05-11,RM-MS,MS Plates,Raw Material,Issued-to-Production,745,WIP Floor,2440,,,-745
+ST-00089,2026-05-13,RM-MS,MS Plates,Raw Material,Inward-Purchase,1004,Raw Material Store,3444,PO-0028,,1004
+ST-00090,2026-05-17,RM-MS,MS Plates,Raw Material,Issued-to-Production,764,WIP Floor,2680,,,-764
+ST-00091,2026-05-23,RM-MS,MS Plates,Raw Material,Inward-Purchase,1153,Raw Material Store,3833,PO-0029,,1153
+ST-00092,2026-05-23,RM-MS,MS Plates,Raw Material,Issued-to-Production,734,WIP Floor,3099,,,-734
+ST-00093,2026-05-29,RM-MS,MS Plates,Raw Material,Issued-to-Production,498,WIP Floor,2601,,,-498
+ST-00094,2026-06-02,RM-MS,MS Plates,Raw Material,Issued-to-Production,471,WIP Floor,2130,,,-471
+ST-00095,2026-06-05,RM-MS,MS Plates,Raw Material,Inward-Purchase,899,Raw Material Store,3029,PO-0030,,899
+ST-00096,2026-06-06,RM-MS,MS Plates,Raw Material,Issued-to-Production,497,WIP Floor,2532,,,-497
+ST-00097,2026-06-10,RM-MS,MS Plates,Raw Material,Issued-to-Production,481,WIP Floor,2051,,,-481
+ST-00098,2026-06-14,RM-MS,MS Plates,Raw Material,Issued-to-Production,476,WIP Floor,1575,,,-476
+ST-00099,2026-06-15,RM-MS,MS Plates,Raw Material,Inward-Purchase,1450,Raw Material Store,3025,PO-0031,,1450
+ST-00100,2026-06-18,RM-MS,MS Plates,Raw Material,Issued-to-Production,492,WIP Floor,2533,,,-492
+ST-00101,2026-06-22,RM-MS,MS Plates,Raw Material,Issued-to-Production,650,WIP Floor,1883,,,-650
+ST-00102,2026-06-27,RM-MS,MS Plates,Raw Material,Issued-to-Production,608,WIP Floor,1275,,,-608
+ST-00103,2026-06-28,RM-MS,MS Plates,Raw Material,Inward-Purchase,1326,Raw Material Store,2601,PO-0032,,1326
+ST-00104,2026-01-05,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,419,WIP Floor,1288,,,-419
+ST-00105,2026-01-10,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,350,WIP Floor,938,,,-350
+ST-00106,2026-01-14,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,521,WIP Floor,417,,,-521
+ST-00107,2026-01-20,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,417,WIP Floor,0,,,-417
+ST-00108,2026-01-25,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1226,Raw Material Store,1226,PO-0034,,1226
+ST-00109,2026-01-26,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,504,WIP Floor,722,,,-504
+ST-00110,2026-01-27,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,537,Raw Material Store,1259,PO-0035,,537
+ST-00111,2026-02-01,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,503,WIP Floor,756,,,-503
+ST-00112,2026-02-07,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,365,WIP Floor,391,,,-365
+ST-00113,2026-02-11,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,383,WIP Floor,8,,,-383
+ST-00114,2026-02-14,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,817,Raw Material Store,825,PO-0036,,817
+ST-00115,2026-02-15,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,383,WIP Floor,442,,,-383
+ST-00116,2026-02-19,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,442,WIP Floor,0,,,-442
+ST-00117,2026-02-20,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1436,Raw Material Store,1436,PO-0037,,1436
+ST-00118,2026-02-24,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,436,WIP Floor,1000,,,-436
+ST-00119,2026-03-01,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,466,WIP Floor,534,,,-466
+ST-00120,2026-03-05,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1391,Raw Material Store,1925,PO-0038,,1391
+ST-00121,2026-03-06,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,339,WIP Floor,1586,,,-339
+ST-00122,2026-03-10,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,350,WIP Floor,1236,,,-350
+ST-00123,2026-03-14,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,815,Raw Material Store,2051,PO-0039,,815
+ST-00124,2026-03-14,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,334,WIP Floor,1717,,,-334
+ST-00125,2026-03-18,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,557,WIP Floor,1160,,,-557
+ST-00126,2026-03-24,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,470,WIP Floor,690,,,-470
+ST-00127,2026-03-28,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1246,Raw Material Store,1936,PO-0040,,1246
+ST-00128,2026-03-29,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,473,WIP Floor,1463,,,-473
+ST-00129,2026-03-31,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1331,Raw Material Store,2794,PO-0041,,1331
+ST-00130,2026-04-03,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,444,WIP Floor,2350,,,-444
+ST-00131,2026-04-08,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,360,WIP Floor,1990,,,-360
+ST-00132,2026-04-12,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,518,WIP Floor,1472,,,-518
+ST-00133,2026-04-15,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,696,Raw Material Store,2168,PO-0042,,696
+ST-00134,2026-04-18,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,348,WIP Floor,1820,,,-348
+ST-00135,2026-04-21,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,643,Raw Material Store,2463,PO-0043,,643
+ST-00136,2026-04-22,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,503,WIP Floor,1960,,,-503
+ST-00137,2026-04-28,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,353,WIP Floor,1607,,,-353
+ST-00138,2026-05-02,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,352,WIP Floor,1255,,,-352
+ST-00139,2026-05-06,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,476,WIP Floor,779,,,-476
+ST-00140,2026-05-11,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,436,WIP Floor,343,,,-436
+ST-00141,2026-05-13,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,621,Raw Material Store,964,PO-0044,,621
+ST-00142,2026-05-16,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,528,WIP Floor,436,,,-528
+ST-00143,2026-05-19,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1304,Raw Material Store,1740,PO-0045,,1304
+ST-00144,2026-05-22,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,472,WIP Floor,1268,,,-472
+ST-00145,2026-05-24,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1427,Raw Material Store,2695,PO-0046,,1427
+ST-00146,2026-05-27,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,424,WIP Floor,2271,,,-424
+ST-00147,2026-06-01,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,360,WIP Floor,1911,,,-360
+ST-00148,2026-06-02,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1455,Raw Material Store,3366,PO-0047,,1455
+ST-00149,2026-06-05,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,470,WIP Floor,2896,,,-470
+ST-00150,2026-06-10,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,547,WIP Floor,2349,,,-547
+ST-00151,2026-06-16,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,532,WIP Floor,1817,,,-532
+ST-00152,2026-06-17,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1133,Raw Material Store,2950,PO-0048,,1133
+ST-00153,2026-06-22,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,503,WIP Floor,2447,,,-503
+ST-00154,2026-06-28,RM-FC,Ferro Chrome,Raw Material,Issued-to-Production,420,WIP Floor,2027,,,-420
+ST-00155,2026-06-29,RM-FC,Ferro Chrome,Raw Material,Inward-Purchase,1096,Raw Material Store,3123,PO-0049,,1096
+ST-00156,2026-01-02,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,232,WIP Floor,870,,,-232
+ST-00157,2026-01-06,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,227,WIP Floor,643,,,-227
+ST-00158,2026-01-10,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,290,WIP Floor,353,,,-290
+ST-00159,2026-01-15,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,298,WIP Floor,55,,,-298
+ST-00160,2026-01-19,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,414,Raw Material Store,469,PO-0050,,414
+ST-00161,2026-01-20,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,226,WIP Floor,243,,,-226
+ST-00162,2026-01-24,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,243,WIP Floor,0,,,-243
+ST-00163,2026-01-30,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,667,Raw Material Store,667,PO-0051,,667
+ST-00164,2026-01-30,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,236,WIP Floor,431,,,-236
+ST-00165,2026-02-03,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,283,WIP Floor,148,,,-283
+ST-00166,2026-02-08,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,148,WIP Floor,0,,,-148
+ST-00167,2026-02-12,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,730,Raw Material Store,730,PO-0052,,730
+ST-00168,2026-02-14,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,237,WIP Floor,493,,,-237
+ST-00169,2026-02-18,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,288,WIP Floor,205,,,-288
+ST-00170,2026-02-19,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,824,Raw Material Store,1029,PO-0053,,824
+ST-00171,2026-02-23,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,246,WIP Floor,783,,,-246
+ST-00172,2026-02-27,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,306,WIP Floor,477,,,-306
+ST-00173,2026-03-01,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,484,Raw Material Store,961,PO-0054,,484
+ST-00174,2026-03-04,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,221,WIP Floor,740,,,-221
+ST-00175,2026-03-08,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,287,WIP Floor,453,,,-287
+ST-00176,2026-03-13,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,270,WIP Floor,183,,,-270
+ST-00177,2026-03-16,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,654,Raw Material Store,837,PO-0055,,654
+ST-00178,2026-03-18,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,289,WIP Floor,548,,,-289
+ST-00179,2026-03-23,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,372,WIP Floor,176,,,-372
+ST-00180,2026-03-24,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,627,Raw Material Store,803,PO-0056,,627
+ST-00181,2026-03-29,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,245,WIP Floor,558,,,-245
+ST-00182,2026-04-02,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,555,Raw Material Store,1113,PO-0057,,555
+ST-00183,2026-04-02,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,81,WIP Floor,1032,,,-81
+ST-00184,2026-04-06,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,101,WIP Floor,931,,,-101
+ST-00185,2026-04-11,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,77,WIP Floor,854,,,-77
+ST-00186,2026-04-15,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,86,WIP Floor,768,,,-86
+ST-00187,2026-04-19,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,62,WIP Floor,706,,,-62
+ST-00188,2026-04-20,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,714,Raw Material Store,1420,PO-0058,,714
+ST-00189,2026-04-23,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,64,WIP Floor,1356,,,-64
+ST-00190,2026-04-27,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,829,Raw Material Store,2185,PO-0059,,829
+ST-00191,2026-04-27,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,130,WIP Floor,2055,,,-130
+ST-00192,2026-04-30,RM-FM,Ferro Manganese,Raw Material,QC Reject-Return to Vendor,64,Raw Material Store,1991,PO-0059,,-64
+ST-00193,2026-05-03,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,114,WIP Floor,1877,,,-114
+ST-00194,2026-05-08,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,118,WIP Floor,1759,,,-118
+ST-00195,2026-05-13,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,80,WIP Floor,1679,,,-80
+ST-00196,2026-05-16,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,733,Raw Material Store,2412,PO-0060,,733
+ST-00197,2026-05-17,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,119,WIP Floor,2293,,,-119
+ST-00198,2026-05-23,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,99,WIP Floor,2194,,,-99
+ST-00199,2026-05-25,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,474,Raw Material Store,2668,PO-0061,,474
+ST-00200,2026-05-29,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,63,WIP Floor,2605,,,-63
+ST-00201,2026-06-02,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,105,WIP Floor,2500,,,-105
+ST-00202,2026-06-03,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,1074,Raw Material Store,3574,PO-0062,,1074
+ST-00203,2026-06-07,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,63,WIP Floor,3511,,,-63
+ST-00204,2026-06-11,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,73,WIP Floor,3438,,,-73
+ST-00205,2026-06-15,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,114,WIP Floor,3324,,,-114
+ST-00206,2026-06-18,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,902,Raw Material Store,4226,PO-0063,,902
+ST-00207,2026-06-21,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,80,WIP Floor,4146,,,-80
+ST-00208,2026-06-26,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,95,WIP Floor,4051,,,-95
+ST-00209,2026-06-27,RM-FM,Ferro Manganese,Raw Material,Inward-Purchase,811,Raw Material Store,4862,PO-0064,,811
+ST-00210,2026-06-30,RM-FM,Ferro Manganese,Raw Material,Issued-to-Production,102,WIP Floor,4760,,,-102
+ST-00211,2026-01-05,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,268,WIP Floor,611,,,-268
+ST-00212,2026-01-11,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,260,WIP Floor,351,,,-260
+ST-00213,2026-01-13,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,502,Raw Material Store,853,PO-0066,,502
+ST-00214,2026-01-17,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,180,WIP Floor,673,,,-180
+ST-00215,2026-01-21,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,225,WIP Floor,448,,,-225
+ST-00216,2026-01-26,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,235,WIP Floor,213,,,-235
+ST-00217,2026-01-27,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,711,Raw Material Store,924,PO-0067,,711
+ST-00218,2026-01-31,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,179,WIP Floor,745,,,-179
+ST-00219,2026-02-01,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,762,Raw Material Store,1507,PO-0068,,762
+ST-00220,2026-02-04,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,259,WIP Floor,1248,,,-259
+ST-00221,2026-02-08,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,782,Raw Material Store,2030,PO-0069,,782
+ST-00222,2026-02-10,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,181,WIP Floor,1849,,,-181
+ST-00223,2026-02-14,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,181,WIP Floor,1668,,,-181
+ST-00224,2026-02-18,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,285,WIP Floor,1383,,,-285
+ST-00225,2026-02-24,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,271,WIP Floor,1112,,,-271
+ST-00226,2026-02-26,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,321,Raw Material Store,1433,PO-0070,,321
+ST-00227,2026-03-02,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,291,WIP Floor,1142,,,-291
+ST-00228,2026-03-08,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,187,WIP Floor,955,,,-187
+ST-00229,2026-03-09,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,668,Raw Material Store,1623,PO-0071,,668
+ST-00230,2026-03-12,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,257,WIP Floor,1366,,,-257
+ST-00231,2026-03-18,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,199,WIP Floor,1167,,,-199
+ST-00232,2026-03-22,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,734,Raw Material Store,1901,PO-0072,,734
+ST-00233,2026-03-22,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,193,WIP Floor,1708,,,-193
+ST-00234,2026-03-26,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,196,WIP Floor,1512,,,-196
+ST-00235,2026-03-30,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,258,WIP Floor,1254,,,-258
+ST-00236,2026-04-01,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,769,Raw Material Store,2023,PO-0073,,769
+ST-00237,2026-04-05,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,184,WIP Floor,1839,,,-184
+ST-00238,2026-04-09,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,290,WIP Floor,1549,,,-290
+ST-00239,2026-04-12,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,330,Raw Material Store,1879,PO-0074,,330
+ST-00240,2026-04-15,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,224,WIP Floor,1655,,,-224
+ST-00241,2026-04-20,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,192,WIP Floor,1463,,,-192
+ST-00242,2026-04-24,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,188,WIP Floor,1275,,,-188
+ST-00243,2026-04-28,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,270,WIP Floor,1005,,,-270
+ST-00244,2026-05-02,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,579,Raw Material Store,1584,PO-0075,,579
+ST-00245,2026-05-04,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,247,WIP Floor,1337,,,-247
+ST-00246,2026-05-09,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,183,WIP Floor,1154,,,-183
+ST-00247,2026-05-11,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,441,Raw Material Store,1595,PO-0076,,441
+ST-00248,2026-05-13,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,233,WIP Floor,1362,,,-233
+ST-00249,2026-05-18,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,228,WIP Floor,1134,,,-228
+ST-00250,2026-05-23,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,229,WIP Floor,905,,,-229
+ST-00251,2026-05-26,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,352,Raw Material Store,1257,PO-0077,,352
+ST-00252,2026-05-28,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,243,WIP Floor,1014,,,-243
+ST-00253,2026-06-02,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,246,WIP Floor,768,,,-246
+ST-00254,2026-06-03,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,738,Raw Material Store,1506,PO-0078,,738
+ST-00255,2026-06-07,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,281,WIP Floor,1225,,,-281
+ST-00256,2026-06-13,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,191,WIP Floor,1034,,,-191
+ST-00257,2026-06-16,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,518,Raw Material Store,1552,PO-0079,,518
+ST-00258,2026-06-17,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,243,WIP Floor,1309,,,-243
+ST-00259,2026-06-22,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,286,WIP Floor,1023,,,-286
+ST-00260,2026-06-28,RM-FS,Ferro Silicon,Raw Material,Inward-Purchase,633,Raw Material Store,1656,PO-0080,,633
+ST-00261,2026-06-28,RM-FS,Ferro Silicon,Raw Material,Issued-to-Production,240,WIP Floor,1416,,,-240
+ST-00262,2026-01-02,RM-NI,Nickel,Raw Material,Issued-to-Production,58,WIP Floor,119,,,-58
+ST-00263,2026-01-08,RM-NI,Nickel,Raw Material,Issued-to-Production,56,WIP Floor,63,,,-56
+ST-00264,2026-01-14,RM-NI,Nickel,Raw Material,Issued-to-Production,37,WIP Floor,26,,,-37
+ST-00265,2026-01-18,RM-NI,Nickel,Raw Material,Issued-to-Production,26,WIP Floor,0,,,-26
+ST-00266,2026-01-22,RM-NI,Nickel,Raw Material,Inward-Purchase,86,Raw Material Store,86,PO-0081,,86
+ST-00267,2026-01-24,RM-NI,Nickel,Raw Material,Issued-to-Production,38,WIP Floor,48,,,-38
+ST-00268,2026-01-28,RM-NI,Nickel,Raw Material,Issued-to-Production,48,WIP Floor,0,,,-48
+ST-00269,2026-01-29,RM-NI,Nickel,Raw Material,Inward-Purchase,121,Raw Material Store,121,PO-0082,,121
+ST-00270,2026-02-02,RM-NI,Nickel,Raw Material,Issued-to-Production,38,WIP Floor,83,,,-38
+ST-00271,2026-02-06,RM-NI,Nickel,Raw Material,Issued-to-Production,55,WIP Floor,28,,,-55
+ST-00272,2026-02-07,RM-NI,Nickel,Raw Material,Inward-Purchase,62,Raw Material Store,90,PO-0083,,62
+ST-00273,2026-02-12,RM-NI,Nickel,Raw Material,Issued-to-Production,59,WIP Floor,31,,,-59
+ST-00274,2026-02-18,RM-NI,Nickel,Raw Material,Issued-to-Production,31,WIP Floor,0,,,-31
+ST-00275,2026-02-19,RM-NI,Nickel,Raw Material,Inward-Purchase,95,Raw Material Store,95,PO-0084,,95
+ST-00276,2026-02-24,RM-NI,Nickel,Raw Material,Issued-to-Production,43,WIP Floor,52,,,-43
+ST-00277,2026-02-27,RM-NI,Nickel,Raw Material,Inward-Purchase,51,Raw Material Store,103,PO-0085,,51
+ST-00278,2026-03-01,RM-NI,Nickel,Raw Material,Issued-to-Production,48,WIP Floor,55,,,-48
+ST-00279,2026-03-06,RM-NI,Nickel,Raw Material,Issued-to-Production,47,WIP Floor,8,,,-47
+ST-00280,2026-03-11,RM-NI,Nickel,Raw Material,Issued-to-Production,8,WIP Floor,0,,,-8
+ST-00281,2026-03-14,RM-NI,Nickel,Raw Material,Inward-Purchase,149,Raw Material Store,149,PO-0086,,149
+ST-00282,2026-03-17,RM-NI,Nickel,Raw Material,Issued-to-Production,48,WIP Floor,101,,,-48
+ST-00283,2026-03-21,RM-NI,Nickel,Raw Material,Inward-Purchase,116,Raw Material Store,217,PO-0087,,116
+ST-00284,2026-03-22,RM-NI,Nickel,Raw Material,Issued-to-Production,50,WIP Floor,167,,,-50
+ST-00285,2026-03-27,RM-NI,Nickel,Raw Material,Inward-Purchase,139,Raw Material Store,306,PO-0088,,139
+ST-00286,2026-03-27,RM-NI,Nickel,Raw Material,Issued-to-Production,38,WIP Floor,268,,,-38
+ST-00287,2026-03-31,RM-NI,Nickel,Raw Material,Issued-to-Production,40,WIP Floor,228,,,-40
+ST-00288,2026-04-04,RM-NI,Nickel,Raw Material,Issued-to-Production,59,WIP Floor,169,,,-59
+ST-00289,2026-04-10,RM-NI,Nickel,Raw Material,Issued-to-Production,57,WIP Floor,112,,,-57
+ST-00290,2026-04-13,RM-NI,Nickel,Raw Material,Inward-Purchase,130,Raw Material Store,242,PO-0089,,130
+ST-00291,2026-04-16,RM-NI,Nickel,Raw Material,Issued-to-Production,53,WIP Floor,189,,,-53
+ST-00292,2026-04-22,RM-NI,Nickel,Raw Material,Issued-to-Production,38,WIP Floor,151,,,-38
+ST-00293,2026-04-24,RM-NI,Nickel,Raw Material,Inward-Purchase,50,Raw Material Store,201,PO-0090,,50
+ST-00294,2026-04-26,RM-NI,Nickel,Raw Material,Issued-to-Production,46,WIP Floor,155,,,-46
+ST-00295,2026-05-01,RM-NI,Nickel,Raw Material,Issued-to-Production,44,WIP Floor,111,,,-44
+ST-00296,2026-05-04,RM-NI,Nickel,Raw Material,Inward-Purchase,78,Raw Material Store,189,PO-0091,,78
+ST-00297,2026-05-04,RM-NI,Nickel,Raw Material,Inward-Purchase,127,Raw Material Store,316,PO-0092,,127
+ST-00298,2026-05-06,RM-NI,Nickel,Raw Material,QC Reject-Return to Vendor,7,Raw Material Store,309,PO-0091,,-7
+ST-00299,2026-05-06,RM-NI,Nickel,Raw Material,Issued-to-Production,55,WIP Floor,254,,,-55
+ST-00300,2026-05-12,RM-NI,Nickel,Raw Material,Issued-to-Production,55,WIP Floor,199,,,-55
+ST-00301,2026-05-14,RM-NI,Nickel,Raw Material,Inward-Purchase,61,Raw Material Store,260,PO-0093,,61
+ST-00302,2026-05-18,RM-NI,Nickel,Raw Material,Issued-to-Production,44,WIP Floor,216,,,-44
+ST-00303,2026-05-20,RM-NI,Nickel,Raw Material,Inward-Purchase,135,Raw Material Store,351,PO-0094,,135
+ST-00304,2026-05-23,RM-NI,Nickel,Raw Material,Issued-to-Production,59,WIP Floor,292,,,-59
+ST-00305,2026-05-29,RM-NI,Nickel,Raw Material,Issued-to-Production,37,WIP Floor,255,,,-37
+ST-00306,2026-06-02,RM-NI,Nickel,Raw Material,Issued-to-Production,43,WIP Floor,212,,,-43
+ST-00307,2026-06-04,RM-NI,Nickel,Raw Material,Inward-Purchase,59,Raw Material Store,271,PO-0095,,59
+ST-00308,2026-06-07,RM-NI,Nickel,Raw Material,Issued-to-Production,37,WIP Floor,234,,,-37
+ST-00309,2026-06-11,RM-NI,Nickel,Raw Material,Inward-Purchase,111,Raw Material Store,345,PO-0096,,111
+ST-00310,2026-06-11,RM-NI,Nickel,Raw Material,Issued-to-Production,38,WIP Floor,307,,,-38
+ST-00311,2026-06-15,RM-NI,Nickel,Raw Material,Issued-to-Production,39,WIP Floor,268,,,-39
+ST-00312,2026-06-17,RM-NI,Nickel,Raw Material,Inward-Purchase,87,Raw Material Store,355,PO-0097,,87
+ST-00313,2026-06-19,RM-NI,Nickel,Raw Material,Issued-to-Production,47,WIP Floor,308,,,-47
+ST-00314,2026-06-24,RM-NI,Nickel,Raw Material,Issued-to-Production,35,WIP Floor,273,,,-35
+ST-00315,2026-06-27,RM-NI,Nickel,Raw Material,Inward-Purchase,128,Raw Material Store,401,PO-0098,,128
+ST-00316,2026-06-28,RM-NI,Nickel,Raw Material,Issued-to-Production,39,WIP Floor,362,,,-39
+ST-00317,2026-01-03,RM-PI,Pig Iron,Raw Material,Issued-to-Production,1139,WIP Floor,2264,,,-1139
+ST-00318,2026-01-09,RM-PI,Pig Iron,Raw Material,Issued-to-Production,861,WIP Floor,1403,,,-861
+ST-00319,2026-01-14,RM-PI,Pig Iron,Raw Material,Issued-to-Production,715,WIP Floor,688,,,-715
+ST-00320,2026-01-16,RM-PI,Pig Iron,Raw Material,Inward-Purchase,1742,Raw Material Store,2430,PO-0099,,1742
+ST-00321,2026-01-18,RM-PI,Pig Iron,Raw Material,Issued-to-Production,716,WIP Floor,1714,,,-716
+ST-00322,2026-01-22,RM-PI,Pig Iron,Raw Material,Issued-to-Production,1016,WIP Floor,698,,,-1016
+ST-00323,2026-01-28,RM-PI,Pig Iron,Raw Material,Issued-to-Production,698,WIP Floor,0,,,-698
+ST-00324,2026-01-31,RM-PI,Pig Iron,Raw Material,Inward-Purchase,1484,Raw Material Store,1484,PO-0100,,1484
+ST-00325,2026-02-03,RM-PI,Pig Iron,Raw Material,Issued-to-Production,905,WIP Floor,579,,,-905
+ST-00326,2026-02-04,RM-PI,Pig Iron,Raw Material,Inward-Purchase,1414,Raw Material Store,1993,PO-0101,,1414
+ST-00327,2026-02-08,RM-PI,Pig Iron,Raw Material,Issued-to-Production,1053,WIP Floor,940,,,-1053
+ST-00328,2026-02-14,RM-PI,Pig Iron,Raw Material,Issued-to-Production,696,WIP Floor,244,,,-696
+ST-00329,2026-02-16,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2614,Raw Material Store,2858,PO-0102,,2614
+ST-00330,2026-02-18,RM-PI,Pig Iron,Raw Material,Issued-to-Production,937,WIP Floor,1921,,,-937
+ST-00331,2026-02-23,RM-PI,Pig Iron,Raw Material,Issued-to-Production,1145,WIP Floor,776,,,-1145
+ST-00332,2026-03-01,RM-PI,Pig Iron,Raw Material,Issued-to-Production,776,WIP Floor,0,,,-776
+ST-00333,2026-03-03,RM-PI,Pig Iron,Raw Material,Inward-Purchase,1591,Raw Material Store,1591,PO-0103,,1591
+ST-00334,2026-03-06,RM-PI,Pig Iron,Raw Material,Issued-to-Production,926,WIP Floor,665,,,-926
+ST-00335,2026-03-11,RM-PI,Pig Iron,Raw Material,Issued-to-Production,665,WIP Floor,0,,,-665
+ST-00336,2026-03-12,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2059,Raw Material Store,2059,PO-0104,,2059
+ST-00337,2026-03-16,RM-PI,Pig Iron,Raw Material,Issued-to-Production,685,WIP Floor,1374,,,-685
+ST-00338,2026-03-20,RM-PI,Pig Iron,Raw Material,Issued-to-Production,1152,WIP Floor,222,,,-1152
+ST-00339,2026-03-24,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2463,Raw Material Store,2685,PO-0105,,2463
+ST-00340,2026-03-26,RM-PI,Pig Iron,Raw Material,Issued-to-Production,756,WIP Floor,1929,,,-756
+ST-00341,2026-03-30,RM-PI,Pig Iron,Raw Material,Issued-to-Production,1075,WIP Floor,854,,,-1075
+ST-00342,2026-04-05,RM-PI,Pig Iron,Raw Material,Issued-to-Production,344,WIP Floor,510,,,-344
+ST-00343,2026-04-08,RM-PI,Pig Iron,Raw Material,Inward-Purchase,1816,Raw Material Store,2326,PO-0106,,1816
+ST-00344,2026-04-10,RM-PI,Pig Iron,Raw Material,Issued-to-Production,335,WIP Floor,1991,,,-335
+ST-00345,2026-04-16,RM-PI,Pig Iron,Raw Material,Issued-to-Production,349,WIP Floor,1642,,,-349
+ST-00346,2026-04-21,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2122,Raw Material Store,3764,PO-0107,,2122
+ST-00347,2026-04-22,RM-PI,Pig Iron,Raw Material,Issued-to-Production,272,WIP Floor,3492,,,-272
+ST-00348,2026-04-27,RM-PI,Pig Iron,Raw Material,Issued-to-Production,413,WIP Floor,3079,,,-413
+ST-00349,2026-05-03,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2520,Raw Material Store,5599,PO-0108,,2520
+ST-00350,2026-05-03,RM-PI,Pig Iron,Raw Material,Issued-to-Production,351,WIP Floor,5248,,,-351
+ST-00351,2026-05-09,RM-PI,Pig Iron,Raw Material,Issued-to-Production,349,WIP Floor,4899,,,-349
+ST-00352,2026-05-14,RM-PI,Pig Iron,Raw Material,Issued-to-Production,366,WIP Floor,4533,,,-366
+ST-00353,2026-05-17,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2089,Raw Material Store,6622,PO-0109,,2089
+ST-00354,2026-05-20,RM-PI,Pig Iron,Raw Material,Inward-Purchase,1339,Raw Material Store,7961,PO-0110,,1339
+ST-00355,2026-05-20,RM-PI,Pig Iron,Raw Material,Issued-to-Production,420,WIP Floor,7541,,,-420
+ST-00356,2026-05-26,RM-PI,Pig Iron,Raw Material,Issued-to-Production,420,WIP Floor,7121,,,-420
+ST-00357,2026-06-01,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2536,Raw Material Store,9657,PO-0111,,2536
+ST-00358,2026-06-01,RM-PI,Pig Iron,Raw Material,Issued-to-Production,377,WIP Floor,9280,,,-377
+ST-00359,2026-06-05,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2476,Raw Material Store,11756,PO-0112,,2476
+ST-00360,2026-06-06,RM-PI,Pig Iron,Raw Material,Issued-to-Production,289,WIP Floor,11467,,,-289
+ST-00361,2026-06-10,RM-PI,Pig Iron,Raw Material,Issued-to-Production,221,WIP Floor,11246,,,-221
+ST-00362,2026-06-14,RM-PI,Pig Iron,Raw Material,Issued-to-Production,368,WIP Floor,10878,,,-368
+ST-00363,2026-06-16,RM-PI,Pig Iron,Raw Material,Inward-Purchase,2925,Raw Material Store,13803,PO-0113,,2925
+ST-00364,2026-06-20,RM-PI,Pig Iron,Raw Material,Issued-to-Production,284,WIP Floor,13519,,,-284
+ST-00365,2026-06-26,RM-PI,Pig Iron,Raw Material,Issued-to-Production,217,WIP Floor,13302,,,-217
+ST-00366,2026-06-30,RM-PI,Pig Iron,Raw Material,Issued-to-Production,329,WIP Floor,12973,,,-329
+ST-00367,2026-01-02,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,704,WIP Floor,1923,,,-704
+ST-00368,2026-01-07,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,586,WIP Floor,1337,,,-586
+ST-00369,2026-01-11,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,855,WIP Floor,482,,,-855
+ST-00370,2026-01-17,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,482,WIP Floor,0,,,-482
+ST-00371,2026-01-24,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,2184,Raw Material Store,2184,PO-0116,,2184
+ST-00372,2026-01-27,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,592,WIP Floor,1592,,,-592
+ST-00373,2026-01-30,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1504,Raw Material Store,3096,PO-0117,,1504
+ST-00374,2026-01-31,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,670,WIP Floor,2426,,,-670
+ST-00375,2026-02-02,RM-CI,Cast Iron Scrap,Raw Material,QC Reject-Return to Vendor,95,Raw Material Store,2331,PO-0117,,-95
+ST-00376,2026-02-02,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1407,Raw Material Store,3738,PO-0118,,1407
+ST-00377,2026-02-05,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,688,WIP Floor,3050,,,-688
+ST-00378,2026-02-10,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,568,WIP Floor,2482,,,-568
+ST-00379,2026-02-14,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,839,WIP Floor,1643,,,-839
+ST-00380,2026-02-15,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,2117,Raw Material Store,3760,PO-0119,,2117
+ST-00381,2026-02-20,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,853,WIP Floor,2907,,,-853
+ST-00382,2026-02-26,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,849,WIP Floor,2058,,,-849
+ST-00383,2026-03-02,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1621,Raw Material Store,3679,PO-0120,,1621
+ST-00384,2026-03-04,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,522,WIP Floor,3157,,,-522
+ST-00385,2026-03-08,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,592,WIP Floor,2565,,,-592
+ST-00386,2026-03-12,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,684,WIP Floor,1881,,,-684
+ST-00387,2026-03-17,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,702,WIP Floor,1179,,,-702
+ST-00388,2026-03-20,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1995,Raw Material Store,3174,PO-0121,,1995
+ST-00389,2026-03-22,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,580,WIP Floor,2594,,,-580
+ST-00390,2026-03-26,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,531,WIP Floor,2063,,,-531
+ST-00391,2026-03-30,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,557,WIP Floor,1506,,,-557
+ST-00392,2026-04-01,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,881,Raw Material Store,2387,PO-0122,,881
+ST-00393,2026-04-03,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,804,WIP Floor,1583,,,-804
+ST-00394,2026-04-09,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,870,WIP Floor,713,,,-870
+ST-00395,2026-04-11,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1263,Raw Material Store,1976,PO-0123,,1263
+ST-00396,2026-04-15,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,528,WIP Floor,1448,,,-528
+ST-00397,2026-04-19,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,719,WIP Floor,729,,,-719
+ST-00398,2026-04-22,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,2073,Raw Material Store,2802,PO-0124,,2073
+ST-00399,2026-04-24,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,542,WIP Floor,2260,,,-542
+ST-00400,2026-04-28,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,533,WIP Floor,1727,,,-533
+ST-00401,2026-05-02,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,729,WIP Floor,998,,,-729
+ST-00402,2026-05-07,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1987,Raw Material Store,2985,PO-0125,,1987
+ST-00403,2026-05-07,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,796,WIP Floor,2189,,,-796
+ST-00404,2026-05-13,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1683,Raw Material Store,3872,PO-0126,,1683
+ST-00405,2026-05-13,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,539,WIP Floor,3333,,,-539
+ST-00406,2026-05-17,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,674,WIP Floor,2659,,,-674
+ST-00407,2026-05-22,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,520,WIP Floor,2139,,,-520
+ST-00408,2026-05-24,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1651,Raw Material Store,3790,PO-0127,,1651
+ST-00409,2026-05-26,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,684,WIP Floor,3106,,,-684
+ST-00410,2026-05-31,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,585,WIP Floor,2521,,,-585
+ST-00411,2026-06-04,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,663,WIP Floor,1858,,,-663
+ST-00412,2026-06-05,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,810,Raw Material Store,2668,PO-0128,,810
+ST-00413,2026-06-09,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,587,WIP Floor,2081,,,-587
+ST-00414,2026-06-13,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,711,WIP Floor,1370,,,-711
+ST-00415,2026-06-18,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,800,WIP Floor,570,,,-800
+ST-00416,2026-06-19,RM-CI,Cast Iron Scrap,Raw Material,Inward-Purchase,1923,Raw Material Store,2493,PO-0129,,1923
+ST-00417,2026-06-24,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,530,WIP Floor,1963,,,-530
+ST-00418,2026-06-28,RM-CI,Cast Iron Scrap,Raw Material,Issued-to-Production,655,WIP Floor,1308,,,-655
+ST-00419,2026-01-03,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,8,Finished Goods Store,47,,,8
+ST-00420,2026-01-04,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,12,Finished Goods Store,59,,,12
+ST-00421,2026-01-05,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,16,Finished Goods Store,75,,,16
+ST-00422,2026-01-08,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,17,Finished Goods Store,92,,,17
+ST-00423,2026-01-09,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,4,Finished Goods Store,96,,,4
+ST-00424,2026-01-11,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,88,,SO-0001,-8
+ST-00425,2026-01-12,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,16,Finished Goods Store,72,,SO-0003,-16
+ST-00426,2026-01-14,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,68,,SO-0004,-4
+ST-00427,2026-01-18,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,12,Finished Goods Store,56,,SO-0002,-12
+ST-00428,2026-01-19,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,14,Finished Goods Store,70,,,14
+ST-00429,2026-01-21,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,53,,SO-0005,-17
+ST-00430,2026-01-21,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,7,Finished Goods Store,60,,,7
+ST-00431,2026-01-22,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,6,Finished Goods Store,66,,,6
+ST-00432,2026-01-28,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,8,Finished Goods Store,74,,,8
+ST-00433,2026-01-28,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,9,Finished Goods Store,83,,,9
+ST-00434,2026-01-29,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,76,,SO-0019,-7
+ST-00435,2026-01-29,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,70,,SO-0015,-6
+ST-00436,2026-01-31,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,61,,SO-0025,-9
+ST-00437,2026-01-31,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,5,Finished Goods Store,66,,,5
+ST-00438,2026-02-02,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,14,Finished Goods Store,52,,SO-0020,-14
+ST-00439,2026-02-02,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,14,Finished Goods Store,66,,,14
+ST-00440,2026-02-02,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,15,Finished Goods Store,81,,,15
+ST-00441,2026-02-03,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,73,,SO-0027,-8
+ST-00442,2026-02-03,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,68,,SO-0026,-5
+ST-00443,2026-02-09,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,12,Finished Goods Store,80,,,12
+ST-00444,2026-02-10,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,65,,SO-0030,-15
+ST-00445,2026-02-12,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,14,Finished Goods Store,51,,SO-0032,-14
+ST-00446,2026-02-13,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,12,Finished Goods Store,39,,SO-0033,-12
+ST-00447,2026-02-18,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,18,Finished Goods Store,57,,,18
+ST-00448,2026-02-20,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,39,,SO-0040,-18
+ST-00449,2026-02-20,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,4,Finished Goods Store,43,,,4
+ST-00450,2026-02-25,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,39,,SO-0038,-4
+ST-00451,2026-03-03,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,19,Finished Goods Store,58,,,19
+ST-00452,2026-03-08,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,13,Finished Goods Store,71,,,13
+ST-00453,2026-03-12,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,52,,SO-0057,-19
+ST-00454,2026-03-14,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,39,,SO-0054,-13
+ST-00455,2026-03-17,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,17,Finished Goods Store,56,,,17
+ST-00456,2026-03-24,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,39,,SO-0062,-17
+ST-00457,2026-05-10,SKU-GR01,Grinding Roller - Standard,Finished Good,Finished Goods-In,5,Finished Goods Store,44,,,5
+ST-00458,2026-05-13,SKU-GR01,Grinding Roller - Standard,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,39,,SO-0081,-5
+ST-00459,2026-01-13,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,30,,,6
+ST-00460,2026-01-13,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,36,,,6
+ST-00461,2026-01-20,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,3,Finished Goods Store,39,,,3
+ST-00462,2026-01-22,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,3,Finished Goods Store,36,,SO-0017,-3
+ST-00463,2026-01-23,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,30,,SO-0009,-6
+ST-00464,2026-01-23,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,24,,SO-0012,-6
+ST-00465,2026-01-23,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,11,Finished Goods Store,35,,,11
+ST-00466,2026-01-26,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,41,,,6
+ST-00467,2026-01-27,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,4,Finished Goods Store,45,,,4
+ST-00468,2026-01-30,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,4,Finished Goods Store,49,,,4
+ST-00469,2026-01-31,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,38,,SO-0016,-11
+ST-00470,2026-01-31,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,34,,SO-0021,-4
+ST-00471,2026-02-01,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,28,,SO-0022,-6
+ST-00472,2026-02-07,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,9,Finished Goods Store,37,,,9
+ST-00473,2026-02-10,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,33,,SO-0023,-4
+ST-00474,2026-02-10,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,7,Finished Goods Store,40,,,7
+ST-00475,2026-02-11,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,5,Finished Goods Store,45,,,5
+ST-00476,2026-02-14,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,38,,SO-0034,-7
+ST-00477,2026-02-15,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,33,,SO-0035,-5
+ST-00478,2026-02-16,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,24,,SO-0031,-9
+ST-00479,2026-02-22,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,10,Finished Goods Store,34,,,10
+ST-00480,2026-02-23,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,5,Finished Goods Store,39,,,5
+ST-00481,2026-02-26,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,34,,SO-0046,-5
+ST-00482,2026-02-26,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,10,Finished Goods Store,44,,,10
+ST-00483,2026-03-02,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,34,,SO-0044,-10
+ST-00484,2026-03-07,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,24,,SO-0050,-10
+ST-00485,2026-03-07,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,3,Finished Goods Store,27,,,3
+ST-00486,2026-03-13,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,3,Finished Goods Store,30,,,3
+ST-00487,2026-03-15,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,3,Finished Goods Store,27,,SO-0051,-3
+ST-00488,2026-03-18,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,3,Finished Goods Store,24,,SO-0060,-3
+ST-00489,2026-03-22,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,30,,,6
+ST-00490,2026-03-23,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,4,Finished Goods Store,34,,,4
+ST-00491,2026-03-26,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,28,,SO-0065,-6
+ST-00492,2026-03-26,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,7,Finished Goods Store,35,,,7
+ST-00493,2026-03-27,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,9,Finished Goods Store,44,,,9
+ST-00494,2026-03-29,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,10,Finished Goods Store,54,,,10
+ST-00495,2026-04-01,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,50,,SO-0064,-4
+ST-00496,2026-04-02,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,41,,SO-0066,-9
+ST-00497,2026-04-04,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,4,Finished Goods Store,45,,,4
+ST-00498,2026-04-05,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,8,Finished Goods Store,53,,,8
+ST-00499,2026-04-06,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,43,,SO-0068,-10
+ST-00500,2026-04-06,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,3,Finished Goods Store,46,,,3
+ST-00501,2026-04-08,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,39,,SO-0067,-7
+ST-00502,2026-04-11,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,45,,,6
+ST-00503,2026-04-12,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,51,,,6
+ST-00504,2026-04-13,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,3,Finished Goods Store,48,,SO-0070,-3
+ST-00505,2026-04-17,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,40,,SO-0071,-8
+ST-00506,2026-04-17,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,36,,SO-0073,-4
+ST-00507,2026-04-17,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Finished Goods-In,8,Finished Goods Store,44,,,8
+ST-00508,2026-04-19,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,38,,SO-0075,-6
+ST-00509,2026-04-24,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,32,,SO-0076,-6
+ST-00510,2026-04-24,SKU-GR02,Grinding Roller - Heavy Duty,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,24,,SO-0077,-8
+ST-00511,2026-01-07,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,3,Finished Goods Store,20,,,3
+ST-00512,2026-01-11,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,9,Finished Goods Store,29,,,9
+ST-00513,2026-01-15,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,20,,SO-0007,-9
+ST-00514,2026-01-16,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,3,Finished Goods Store,23,,,3
+ST-00515,2026-01-17,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,3,Finished Goods Store,20,,SO-0006,-3
+ST-00516,2026-01-18,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,6,Finished Goods Store,26,,,6
+ST-00517,2026-01-19,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,9,Finished Goods Store,35,,,9
+ST-00518,2026-01-23,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,26,,SO-0013,-9
+ST-00519,2026-01-23,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,9,Finished Goods Store,35,,,9
+ST-00520,2026-01-23,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,9,Finished Goods Store,44,,,9
+ST-00521,2026-01-26,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,38,,SO-0008,-6
+ST-00522,2026-01-29,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,3,Finished Goods Store,35,,SO-0010,-3
+ST-00523,2026-01-29,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,4,Finished Goods Store,39,,,4
+ST-00524,2026-02-02,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,30,,SO-0014,-9
+ST-00525,2026-02-03,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,26,,SO-0024,-4
+ST-00526,2026-02-03,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,8,Finished Goods Store,34,,,8
+ST-00527,2026-02-07,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,25,,SO-0018,-9
+ST-00528,2026-02-08,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,17,,SO-0029,-8
+ST-00529,2026-02-13,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,8,Finished Goods Store,25,,,8
+ST-00530,2026-02-21,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,2,Finished Goods Store,27,,,2
+ST-00531,2026-02-22,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,5,Finished Goods Store,32,,,5
+ST-00532,2026-02-22,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,9,Finished Goods Store,41,,,9
+ST-00533,2026-02-24,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,33,,SO-0037,-8
+ST-00534,2026-02-24,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,28,,SO-0039,-5
+ST-00535,2026-02-25,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,5,Finished Goods Store,33,,,5
+ST-00536,2026-03-01,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,3,Finished Goods Store,36,,,3
+ST-00537,2026-03-02,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,27,,SO-0041,-9
+ST-00538,2026-03-04,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,2,Finished Goods Store,25,,SO-0043,-2
+ST-00539,2026-03-06,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,4,Finished Goods Store,29,,,4
+ST-00540,2026-03-07,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,6,Finished Goods Store,35,,,6
+ST-00541,2026-03-09,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,30,,SO-0045,-5
+ST-00542,2026-03-09,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,26,,SO-0053,-4
+ST-00543,2026-03-11,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,20,,SO-0052,-6
+ST-00544,2026-03-11,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,7,Finished Goods Store,27,,,7
+ST-00545,2026-03-12,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,3,Finished Goods Store,24,,SO-0055,-3
+ST-00546,2026-03-17,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,6,Finished Goods Store,30,,,6
+ST-00547,2026-03-18,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,23,,SO-0061,-7
+ST-00548,2026-03-24,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,17,,SO-0063,-6
+ST-00549,2026-03-30,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,5,Finished Goods Store,22,,,5
+ST-00550,2026-04-04,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,17,,SO-0069,-5
+ST-00551,2026-04-19,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,7,Finished Goods Store,24,,,7
+ST-00552,2026-04-28,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,17,,SO-0079,-7
+ST-00553,2026-06-06,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,8,Finished Goods Store,25,,,8
+ST-00554,2026-06-16,SKU-SR01,Mill Roller Shaft,Finished Good,Finished Goods-In,4,Finished Goods Store,29,,,4
+ST-00555,2026-06-17,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,21,,SO-0082,-8
+ST-00556,2026-06-24,SKU-SR01,Mill Roller Shaft,Finished Good,Dispatch-to-Sales,4,Finished Goods Store,17,,SO-0083,-4
+ST-00557,2026-01-14,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,20,Finished Goods Store,49,,,20
+ST-00558,2026-01-19,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,29,,SO-0011,-20
+ST-00559,2026-02-04,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,37,Finished Goods Store,66,,,37
+ST-00560,2026-02-13,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,22,Finished Goods Store,88,,,22
+ST-00561,2026-02-16,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,37,Finished Goods Store,51,,SO-0028,-37
+ST-00562,2026-02-22,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,57,Finished Goods Store,108,,,57
+ST-00563,2026-02-23,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,86,,SO-0036,-22
+ST-00564,2026-02-24,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,22,Finished Goods Store,108,,,22
+ST-00565,2026-02-24,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,19,Finished Goods Store,127,,,19
+ST-00566,2026-02-26,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,46,Finished Goods Store,173,,,46
+ST-00567,2026-03-02,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,154,,SO-0048,-19
+ST-00568,2026-03-03,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,132,,SO-0049,-22
+ST-00569,2026-03-04,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,38,Finished Goods Store,170,,,38
+ST-00570,2026-03-05,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,57,Finished Goods Store,113,,SO-0042,-57
+ST-00571,2026-03-07,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,46,Finished Goods Store,67,,SO-0047,-46
+ST-00572,2026-03-10,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,31,Finished Goods Store,98,,,31
+ST-00573,2026-03-11,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,17,Finished Goods Store,115,,,17
+ST-00574,2026-03-13,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,84,,SO-0058,-31
+ST-00575,2026-03-14,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,38,Finished Goods Store,46,,SO-0056,-38
+ST-00576,2026-03-21,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,29,,SO-0059,-17
+ST-00577,2026-03-31,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,56,Finished Goods Store,85,,,56
+ST-00578,2026-03-31,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,39,Finished Goods Store,124,,,39
+ST-00579,2026-04-08,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,39,Finished Goods Store,85,,SO-0074,-39
+ST-00580,2026-04-13,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,56,Finished Goods Store,29,,SO-0072,-56
+ST-00581,2026-04-18,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,11,Finished Goods Store,40,,,11
+ST-00582,2026-04-19,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,11,Finished Goods Store,51,,,11
+ST-00583,2026-04-25,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,40,,SO-0078,-11
+ST-00584,2026-04-25,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,29,,SO-0403,-11
+ST-00585,2026-05-03,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,38,Finished Goods Store,67,,,38
+ST-00586,2026-05-05,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Dispatch-to-Sales,38,Finished Goods Store,29,,SO-0080,-38
+ST-00587,2026-06-25,SKU-BS01,Bush & Bearing Sleeve,Finished Good,Finished Goods-In,26,Finished Goods Store,55,,,26
+ST-00588,2026-01-08,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,24,Finished Goods Store,61,,,24
+ST-00589,2026-01-17,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,24,Finished Goods Store,37,,SO-0086,-24
+ST-00590,2026-01-23,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,23,Finished Goods Store,60,,,23
+ST-00591,2026-01-25,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,28,Finished Goods Store,88,,,28
+ST-00592,2026-01-30,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,36,Finished Goods Store,124,,,36
+ST-00593,2026-01-30,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,19,Finished Goods Store,143,,,19
+ST-00594,2026-02-01,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,23,Finished Goods Store,166,,,23
+ST-00595,2026-02-02,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,36,Finished Goods Store,130,,SO-0101,-36
+ST-00596,2026-02-02,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,111,,SO-0102,-19
+ST-00597,2026-02-03,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,83,,SO-0094,-28
+ST-00598,2026-02-05,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,39,Finished Goods Store,122,,,39
+ST-00599,2026-02-07,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,99,,SO-0093,-23
+ST-00600,2026-02-07,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,39,Finished Goods Store,138,,,39
+ST-00601,2026-02-08,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,39,Finished Goods Store,99,,SO-0108,-39
+ST-00602,2026-02-09,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,76,,SO-0104,-23
+ST-00603,2026-02-12,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,39,Finished Goods Store,37,,SO-0105,-39
+ST-00604,2026-02-17,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,36,Finished Goods Store,73,,,36
+ST-00605,2026-02-22,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,37,Finished Goods Store,110,,,37
+ST-00606,2026-02-24,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,31,Finished Goods Store,141,,,31
+ST-00607,2026-02-26,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,36,Finished Goods Store,105,,SO-0116,-36
+ST-00608,2026-02-27,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,12,Finished Goods Store,117,,,12
+ST-00609,2026-03-01,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,37,Finished Goods Store,80,,SO-0118,-37
+ST-00610,2026-03-02,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,22,Finished Goods Store,102,,,22
+ST-00611,2026-03-13,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,37,Finished Goods Store,139,,,37
+ST-00612,2026-03-13,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,39,Finished Goods Store,178,,,39
+ST-00613,2026-03-16,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,20,Finished Goods Store,198,,,20
+ST-00614,2026-03-16,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,26,Finished Goods Store,224,,,26
+ST-00615,2026-03-25,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,12,Finished Goods Store,212,,SO-0124,-12
+ST-00616,2026-03-25,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,25,Finished Goods Store,237,,,25
+ST-00617,2026-03-26,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,215,,SO-0120,-22
+ST-00618,2026-03-27,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,31,Finished Goods Store,246,,,31
+ST-00619,2026-03-28,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,29,Finished Goods Store,275,,,29
+ST-00620,2026-03-29,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,244,,SO-0121,-31
+ST-00621,2026-04-02,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,27,Finished Goods Store,271,,,27
+ST-00622,2026-04-07,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,244,,SO-0148,-27
+ST-00623,2026-04-08,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,224,,SO-0136,-20
+ST-00624,2026-04-09,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,25,Finished Goods Store,249,,,25
+ST-00625,2026-04-13,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,23,Finished Goods Store,272,,,23
+ST-00626,2026-04-13,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,23,Finished Goods Store,295,,,23
+ST-00627,2026-04-14,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,37,Finished Goods Store,258,,SO-0134,-37
+ST-00628,2026-04-16,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,235,,SO-0153,-23
+ST-00629,2026-04-18,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,39,Finished Goods Store,196,,SO-0132,-39
+ST-00630,2026-04-19,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,170,,SO-0137,-26
+ST-00631,2026-04-20,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,25,Finished Goods Store,145,,SO-0150,-25
+ST-00632,2026-04-21,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,122,,SO-0155,-23
+ST-00633,2026-04-22,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,91,,SO-0141,-31
+ST-00634,2026-04-22,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,36,Finished Goods Store,127,,,36
+ST-00635,2026-04-22,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,16,Finished Goods Store,143,,,16
+ST-00636,2026-04-24,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,31,Finished Goods Store,174,,,31
+ST-00637,2026-04-28,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,25,Finished Goods Store,149,,SO-0142,-25
+ST-00638,2026-04-29,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,120,,SO-0140,-29
+ST-00639,2026-05-01,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,89,,SO-0159,-31
+ST-00640,2026-05-02,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,36,Finished Goods Store,53,,SO-0160,-36
+ST-00641,2026-05-03,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,16,Finished Goods Store,69,,,16
+ST-00642,2026-05-04,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,15,Finished Goods Store,84,,,15
+ST-00643,2026-05-06,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,17,Finished Goods Store,101,,,17
+ST-00644,2026-05-06,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,15,Finished Goods Store,116,,,15
+ST-00645,2026-05-07,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,16,Finished Goods Store,100,,SO-0163,-16
+ST-00646,2026-05-10,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,16,Finished Goods Store,84,,SO-0167,-16
+ST-00647,2026-05-10,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,69,,SO-0171,-15
+ST-00648,2026-05-12,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,16,Finished Goods Store,85,,,16
+ST-00649,2026-05-13,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,70,,SO-0168,-15
+ST-00650,2026-05-14,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,53,,SO-0170,-17
+ST-00651,2026-05-15,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,22,Finished Goods Store,75,,,22
+ST-00652,2026-05-15,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,36,Finished Goods Store,111,,,36
+ST-00653,2026-05-19,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,16,Finished Goods Store,95,,SO-0175,-16
+ST-00654,2026-05-19,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,12,Finished Goods Store,107,,,12
+ST-00655,2026-05-19,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,25,Finished Goods Store,132,,,25
+ST-00656,2026-05-22,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,110,,SO-0178,-22
+ST-00657,2026-05-23,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,36,Finished Goods Store,74,,SO-0177,-36
+ST-00658,2026-05-27,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,25,Finished Goods Store,49,,SO-0180,-25
+ST-00659,2026-05-29,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,12,Finished Goods Store,37,,SO-0182,-12
+ST-00660,2026-05-29,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,32,Finished Goods Store,69,,,32
+ST-00661,2026-06-01,SKU-ML01,Mill Liner - Standard,Finished Good,Dispatch-to-Sales,32,Finished Goods Store,37,,SO-0187,-32
+ST-00662,2026-06-25,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,16,Finished Goods Store,53,,,16
+ST-00663,2026-06-25,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,19,Finished Goods Store,72,,,19
+ST-00664,2026-06-28,SKU-ML01,Mill Liner - Standard,Finished Good,Finished Goods-In,32,Finished Goods Store,104,,,32
+ST-00665,2026-01-06,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,22,Finished Goods Store,45,,,22
+ST-00666,2026-01-06,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,22,Finished Goods Store,67,,,22
+ST-00667,2026-01-11,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,45,,SO-0088,-22
+ST-00668,2026-01-11,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,23,,SO-0405,-22
+ST-00669,2026-01-13,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,13,Finished Goods Store,36,,,13
+ST-00670,2026-01-14,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,10,Finished Goods Store,46,,,10
+ST-00671,2026-01-16,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,8,Finished Goods Store,54,,,8
+ST-00672,2026-01-18,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,12,Finished Goods Store,66,,,12
+ST-00673,2026-01-19,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,16,Finished Goods Store,82,,,16
+ST-00674,2026-01-19,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,17,Finished Goods Store,99,,,17
+ST-00675,2026-01-22,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,16,Finished Goods Store,83,,SO-0097,-16
+ST-00676,2026-01-24,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,73,,SO-0090,-10
+ST-00677,2026-01-24,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,12,Finished Goods Store,61,,SO-0096,-12
+ST-00678,2026-01-24,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,44,,SO-0098,-17
+ST-00679,2026-01-25,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,31,,SO-0091,-13
+ST-00680,2026-01-25,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,13,Finished Goods Store,44,,,13
+ST-00681,2026-01-28,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,36,,SO-0092,-8
+ST-00682,2026-01-29,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,42,,,6
+ST-00683,2026-02-01,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,20,Finished Goods Store,62,,,20
+ST-00684,2026-02-02,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,49,,SO-0103,-13
+ST-00685,2026-02-04,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,29,,SO-0099,-20
+ST-00686,2026-02-06,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,23,,SO-0100,-6
+ST-00687,2026-02-07,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,23,Finished Goods Store,46,,,23
+ST-00688,2026-02-11,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,52,,,6
+ST-00689,2026-02-14,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,46,,SO-0111,-6
+ST-00690,2026-02-16,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,14,Finished Goods Store,60,,,14
+ST-00691,2026-02-17,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,19,Finished Goods Store,79,,,19
+ST-00692,2026-02-20,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,56,,SO-0106,-23
+ST-00693,2026-02-20,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,20,Finished Goods Store,76,,,20
+ST-00694,2026-02-21,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,24,Finished Goods Store,100,,,24
+ST-00695,2026-02-22,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,81,,SO-0115,-19
+ST-00696,2026-02-25,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,61,,SO-0117,-20
+ST-00697,2026-02-25,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,8,Finished Goods Store,69,,,8
+ST-00698,2026-02-27,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,24,Finished Goods Store,45,,SO-0123,-24
+ST-00699,2026-03-01,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,18,Finished Goods Store,63,,,18
+ST-00700,2026-03-03,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,14,Finished Goods Store,49,,SO-0119,-14
+ST-00701,2026-03-06,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,5,Finished Goods Store,54,,,5
+ST-00702,2026-03-06,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,12,Finished Goods Store,66,,,12
+ST-00703,2026-03-10,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,8,Finished Goods Store,74,,,8
+ST-00704,2026-03-19,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,23,Finished Goods Store,97,,,23
+ST-00705,2026-03-21,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,89,,SO-0122,-8
+ST-00706,2026-03-24,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,24,Finished Goods Store,113,,,24
+ST-00707,2026-03-28,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,95,,SO-0125,-18
+ST-00708,2026-03-28,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,12,Finished Goods Store,83,,SO-0126,-12
+ST-00709,2026-04-02,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,78,,SO-0127,-5
+ST-00710,2026-04-02,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,11,Finished Goods Store,89,,,11
+ST-00711,2026-04-04,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,81,,SO-0133,-8
+ST-00712,2026-04-04,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,13,Finished Goods Store,94,,,13
+ST-00713,2026-04-07,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,20,Finished Goods Store,114,,,20
+ST-00714,2026-04-10,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,101,,SO-0147,-13
+ST-00715,2026-04-11,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,14,Finished Goods Store,115,,,14
+ST-00716,2026-04-12,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,95,,SO-0151,-20
+ST-00717,2026-04-15,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,84,,SO-0146,-11
+ST-00718,2026-04-15,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,11,Finished Goods Store,95,,,11
+ST-00719,2026-04-17,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,72,,SO-0139,-23
+ST-00720,2026-04-17,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,24,Finished Goods Store,48,,SO-0143,-24
+ST-00721,2026-04-17,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,17,Finished Goods Store,65,,,17
+ST-00722,2026-04-20,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,14,Finished Goods Store,51,,SO-0158,-14
+ST-00723,2026-04-26,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,40,,SO-0154,-11
+ST-00724,2026-04-28,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,23,,SO-0156,-17
+ST-00725,2026-05-05,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,10,Finished Goods Store,33,,,10
+ST-00726,2026-05-10,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,23,,SO-0172,-10
+ST-00727,2026-05-11,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,19,Finished Goods Store,42,,,19
+ST-00728,2026-05-12,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,13,Finished Goods Store,55,,,13
+ST-00729,2026-05-14,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,36,,SO-0169,-19
+ST-00730,2026-05-21,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,23,,SO-0174,-13
+ST-00731,2026-05-22,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,17,Finished Goods Store,40,,,17
+ST-00732,2026-05-23,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,21,Finished Goods Store,61,,,21
+ST-00733,2026-05-24,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,13,Finished Goods Store,74,,,13
+ST-00734,2026-05-27,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,10,Finished Goods Store,84,,,10
+ST-00735,2026-05-27,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,14,Finished Goods Store,98,,,14
+ST-00736,2026-05-30,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,77,,SO-0179,-21
+ST-00737,2026-05-31,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,60,,SO-0183,-17
+ST-00738,2026-06-01,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,47,,SO-0186,-13
+ST-00739,2026-06-02,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,6,Finished Goods Store,53,,,6
+ST-00740,2026-06-03,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,14,Finished Goods Store,39,,SO-0185,-14
+ST-00741,2026-06-03,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,7,Finished Goods Store,46,,,7
+ST-00742,2026-06-04,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,36,,SO-0184,-10
+ST-00743,2026-06-06,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,30,,SO-0192,-6
+ST-00744,2026-06-09,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,23,,SO-0189,-7
+ST-00745,2026-06-09,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,8,Finished Goods Store,31,,,8
+ST-00746,2026-06-11,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,23,Finished Goods Store,54,,,23
+ST-00747,2026-06-14,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,12,Finished Goods Store,66,,,12
+ST-00748,2026-06-15,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,15,Finished Goods Store,81,,,15
+ST-00749,2026-06-17,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,13,Finished Goods Store,94,,,13
+ST-00750,2026-06-19,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,86,,SO-0194,-8
+ST-00751,2026-06-19,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,15,Finished Goods Store,101,,,15
+ST-00752,2026-06-21,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,78,,SO-0198,-23
+ST-00753,2026-06-21,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,12,Finished Goods Store,66,,SO-0204,-12
+ST-00754,2026-06-23,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,53,,SO-0199,-13
+ST-00755,2026-06-24,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,38,,SO-0200,-15
+ST-00756,2026-06-24,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,16,Finished Goods Store,54,,,16
+ST-00757,2026-06-25,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,24,Finished Goods Store,78,,,24
+ST-00758,2026-06-26,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,63,,SO-0202,-15
+ST-00759,2026-06-28,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,17,Finished Goods Store,80,,,17
+ST-00760,2026-06-29,SKU-ML02,Mill Liner - Heavy Duty,Finished Good,Finished Goods-In,7,Finished Goods Store,87,,,7
+ST-00761,2026-01-05,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,28,Finished Goods Store,64,,,28
+ST-00762,2026-01-06,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,7,Finished Goods Store,71,,,7
+ST-00763,2026-01-08,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,27,Finished Goods Store,98,,,27
+ST-00764,2026-01-09,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,91,,SO-0216,-7
+ST-00765,2026-01-12,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,11,Finished Goods Store,102,,,11
+ST-00766,2026-01-13,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,74,,SO-0219,-28
+ST-00767,2026-01-15,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,47,,SO-0085,-27
+ST-00768,2026-01-17,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,18,Finished Goods Store,65,,,18
+ST-00769,2026-01-21,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,54,,SO-0089,-11
+ST-00770,2026-01-25,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,18,Finished Goods Store,72,,,18
+ST-00771,2026-01-30,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,54,,SO-0095,-18
+ST-00772,2026-02-01,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,36,,SO-0227,-18
+ST-00773,2026-02-03,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,28,Finished Goods Store,64,,,28
+ST-00774,2026-02-05,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,14,Finished Goods Store,78,,,14
+ST-00775,2026-02-05,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,20,Finished Goods Store,98,,,20
+ST-00776,2026-02-06,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,21,Finished Goods Store,119,,,21
+ST-00777,2026-02-07,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,91,,SO-0233,-28
+ST-00778,2026-02-07,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,8,Finished Goods Store,99,,,8
+ST-00779,2026-02-08,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,19,Finished Goods Store,118,,,19
+ST-00780,2026-02-10,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,97,,SO-0231,-21
+ST-00781,2026-02-12,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,14,Finished Goods Store,83,,SO-0107,-14
+ST-00782,2026-02-14,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,9,Finished Goods Store,92,,,9
+ST-00783,2026-02-16,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,10,Finished Goods Store,102,,,10
+ST-00784,2026-02-17,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,82,,SO-0109,-20
+ST-00785,2026-02-17,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,74,,SO-0230,-8
+ST-00786,2026-02-18,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,55,,SO-0110,-19
+ST-00787,2026-02-18,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,28,Finished Goods Store,83,,,28
+ST-00788,2026-02-18,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,20,Finished Goods Store,103,,,20
+ST-00789,2026-02-18,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,25,Finished Goods Store,128,,,25
+ST-00790,2026-02-22,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,119,,SO-0113,-9
+ST-00791,2026-02-23,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,91,,SO-0114,-28
+ST-00792,2026-02-23,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,25,Finished Goods Store,66,,SO-0237,-25
+ST-00793,2026-02-23,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,29,Finished Goods Store,95,,,29
+ST-00794,2026-02-24,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,75,,SO-0239,-20
+ST-00795,2026-02-24,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,29,Finished Goods Store,104,,,29
+ST-00796,2026-02-24,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,75,,SO-0243,-29
+ST-00797,2026-02-25,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,65,,SO-0112,-10
+ST-00798,2026-03-02,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,28,Finished Goods Store,93,,,28
+ST-00799,2026-03-02,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,9,Finished Goods Store,102,,,9
+ST-00800,2026-03-03,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,29,Finished Goods Store,131,,,29
+ST-00801,2026-03-07,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,6,Finished Goods Store,137,,,6
+ST-00802,2026-03-10,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,25,Finished Goods Store,162,,,25
+ST-00803,2026-03-12,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,20,Finished Goods Store,182,,,20
+ST-00804,2026-03-15,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,20,Finished Goods Store,202,,,20
+ST-00805,2026-03-16,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,5,Finished Goods Store,207,,,5
+ST-00806,2026-03-21,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,20,Finished Goods Store,227,,,20
+ST-00807,2026-03-21,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,26,Finished Goods Store,253,,,26
+ST-00808,2026-03-25,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,224,,SO-0240,-29
+ST-00809,2026-03-29,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,13,Finished Goods Store,237,,,13
+ST-00810,2026-03-29,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,5,Finished Goods Store,242,,,5
+ST-00811,2026-04-02,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,21,Finished Goods Store,263,,,21
+ST-00812,2026-04-03,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,235,,SO-0128,-28
+ST-00813,2026-04-03,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,226,,SO-0130,-9
+ST-00814,2026-04-04,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,220,,SO-0129,-6
+ST-00815,2026-04-04,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,215,,SO-0144,-5
+ST-00816,2026-04-06,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,18,Finished Goods Store,233,,,18
+ST-00817,2026-04-08,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,213,,SO-0138,-20
+ST-00818,2026-04-09,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,192,,SO-0145,-21
+ST-00819,2026-04-09,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,23,Finished Goods Store,215,,,23
+ST-00820,2026-04-10,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,186,,SO-0244,-29
+ST-00821,2026-04-10,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,168,,SO-0152,-18
+ST-00822,2026-04-11,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,148,,SO-0131,-20
+ST-00823,2026-04-11,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,128,,SO-0252,-20
+ST-00824,2026-04-11,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,5,Finished Goods Store,133,,,5
+ST-00825,2026-04-11,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,27,Finished Goods Store,160,,,27
+ST-00826,2026-04-12,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,155,,SO-0253,-5
+ST-00827,2026-04-12,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,27,Finished Goods Store,182,,,27
+ST-00828,2026-04-14,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,27,Finished Goods Store,209,,,27
+ST-00829,2026-04-16,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,25,Finished Goods Store,184,,SO-0135,-25
+ST-00830,2026-04-17,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,161,,SO-0149,-23
+ST-00831,2026-04-17,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,134,,SO-0272,-27
+ST-00832,2026-04-17,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,107,,SO-0406,-27
+ST-00833,2026-04-17,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,7,Finished Goods Store,114,,,7
+ST-00834,2026-04-19,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,24,Finished Goods Store,138,,,24
+ST-00835,2026-04-20,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,6,Finished Goods Store,144,,,6
+ST-00836,2026-04-21,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,139,,SO-0263,-5
+ST-00837,2026-04-23,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,15,Finished Goods Store,154,,,15
+ST-00838,2026-04-24,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,128,,SO-0256,-26
+ST-00839,2026-04-24,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,101,,SO-0157,-27
+ST-00840,2026-04-25,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,6,Finished Goods Store,95,,SO-0162,-6
+ST-00841,2026-04-27,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,24,Finished Goods Store,71,,SO-0276,-24
+ST-00842,2026-04-28,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,64,,SO-0269,-7
+ST-00843,2026-04-28,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,15,Finished Goods Store,79,,,15
+ST-00844,2026-04-28,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,26,Finished Goods Store,105,,,26
+ST-00845,2026-04-29,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,92,,SO-0255,-13
+ST-00846,2026-04-30,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,77,,SO-0161,-15
+ST-00847,2026-05-01,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,19,Finished Goods Store,96,,,19
+ST-00848,2026-05-02,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,15,Finished Goods Store,111,,,15
+ST-00849,2026-05-06,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,20,Finished Goods Store,131,,,20
+ST-00850,2026-05-07,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,116,,SO-0165,-15
+ST-00851,2026-05-07,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,90,,SO-0166,-26
+ST-00852,2026-05-08,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,20,Finished Goods Store,110,,,20
+ST-00853,2026-05-09,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,95,,SO-0164,-15
+ST-00854,2026-05-09,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,76,,SO-0282,-19
+ST-00855,2026-05-09,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,23,Finished Goods Store,99,,,23
+ST-00856,2026-05-12,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,29,Finished Goods Store,128,,,29
+ST-00857,2026-05-13,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,10,Finished Goods Store,138,,,10
+ST-00858,2026-05-14,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,118,,SO-0407,-20
+ST-00859,2026-05-14,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,98,,SO-0285,-20
+ST-00860,2026-05-14,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,20,Finished Goods Store,118,,,20
+ST-00861,2026-05-17,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,22,Finished Goods Store,140,,,22
+ST-00862,2026-05-18,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,130,,SO-0173,-10
+ST-00863,2026-05-19,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,101,,SO-0293,-29
+ST-00864,2026-05-20,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,78,,SO-0292,-23
+ST-00865,2026-05-22,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,58,,SO-0176,-20
+ST-00866,2026-05-23,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,8,Finished Goods Store,66,,,8
+ST-00867,2026-05-24,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,44,,SO-0294,-22
+ST-00868,2026-05-25,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,18,Finished Goods Store,62,,,18
+ST-00869,2026-05-29,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,54,,SO-0181,-8
+ST-00870,2026-05-30,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,27,Finished Goods Store,81,,,27
+ST-00871,2026-05-31,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,25,Finished Goods Store,106,,,25
+ST-00872,2026-06-04,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,88,,SO-0303,-18
+ST-00873,2026-06-04,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,14,Finished Goods Store,102,,,14
+ST-00874,2026-06-05,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,75,,SO-0302,-27
+ST-00875,2026-06-05,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,22,Finished Goods Store,97,,,22
+ST-00876,2026-06-06,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,14,Finished Goods Store,83,,SO-0307,-14
+ST-00877,2026-06-06,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,5,Finished Goods Store,88,,,5
+ST-00878,2026-06-07,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,25,Finished Goods Store,63,,SO-0190,-25
+ST-00879,2026-06-07,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,7,Finished Goods Store,70,,,7
+ST-00880,2026-06-07,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,10,Finished Goods Store,80,,,10
+ST-00881,2026-06-07,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,21,Finished Goods Store,101,,,21
+ST-00882,2026-06-08,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,19,Finished Goods Store,120,,,19
+ST-00883,2026-06-10,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,11,Finished Goods Store,131,,,11
+ST-00884,2026-06-11,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,109,,SO-0306,-22
+ST-00885,2026-06-12,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,7,Finished Goods Store,102,,SO-0304,-7
+ST-00886,2026-06-12,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,5,Finished Goods Store,97,,SO-0193,-5
+ST-00887,2026-06-14,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,87,,SO-0188,-10
+ST-00888,2026-06-14,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,10,Finished Goods Store,97,,,10
+ST-00889,2026-06-15,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,76,,SO-0191,-21
+ST-00890,2026-06-15,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,57,,SO-0197,-19
+ST-00891,2026-06-16,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,46,,SO-0195,-11
+ST-00892,2026-06-19,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,28,Finished Goods Store,74,,,28
+ST-00893,2026-06-19,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,28,Finished Goods Store,102,,,28
+ST-00894,2026-06-20,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,21,Finished Goods Store,123,,,21
+ST-00895,2026-06-21,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,113,,SO-0196,-10
+ST-00896,2026-06-21,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,28,Finished Goods Store,141,,,28
+ST-00897,2026-06-22,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,26,Finished Goods Store,167,,,26
+ST-00898,2026-06-24,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,29,Finished Goods Store,196,,,29
+ST-00899,2026-06-25,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,18,Finished Goods Store,214,,,18
+ST-00900,2026-06-26,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,185,,SO-0205,-29
+ST-00901,2026-06-28,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,157,,SO-0404,-28
+ST-00902,2026-06-28,SKU-CR01,Crusher Liner,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,129,,SO-0201,-28
+ST-00903,2026-06-28,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,5,Finished Goods Store,134,,,5
+ST-00904,2026-06-29,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,17,Finished Goods Store,151,,,17
+ST-00905,2026-07-01,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,11,Finished Goods Store,162,,,11
+ST-00906,2026-07-01,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,12,Finished Goods Store,174,,,12
+ST-00907,2026-07-03,SKU-CR01,Crusher Liner,Finished Good,Finished Goods-In,11,Finished Goods Store,185,,,11
+ST-00908,2026-01-07,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,29,Finished Goods Store,59,,,29
+ST-00909,2026-01-10,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,30,Finished Goods Store,89,,,30
+ST-00910,2026-01-14,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,60,,SO-0329,-29
+ST-00911,2026-01-15,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,30,Finished Goods Store,30,,SO-0332,-30
+ST-00912,2026-01-17,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,30,Finished Goods Store,60,,,30
+ST-00913,2026-01-18,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,58,Finished Goods Store,118,,,58
+ST-00914,2026-01-20,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,22,Finished Goods Store,140,,,22
+ST-00915,2026-01-21,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,30,Finished Goods Store,110,,SO-0220,-30
+ST-00916,2026-01-21,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,58,Finished Goods Store,52,,SO-0225,-58
+ST-00917,2026-01-22,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,40,Finished Goods Store,92,,,40
+ST-00918,2026-01-23,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,20,Finished Goods Store,112,,,20
+ST-00919,2026-01-24,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,28,Finished Goods Store,140,,,28
+ST-00920,2026-01-27,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,31,Finished Goods Store,171,,,31
+ST-00921,2026-01-28,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,58,Finished Goods Store,229,,,58
+ST-00922,2026-01-30,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,201,,SO-0224,-28
+ST-00923,2026-01-30,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,57,Finished Goods Store,258,,,57
+ST-00924,2026-01-31,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,236,,SO-0223,-22
+ST-00925,2026-01-31,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,205,,SO-0228,-31
+ST-00926,2026-02-01,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,40,Finished Goods Store,165,,SO-0335,-40
+ST-00927,2026-02-03,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,145,,SO-0334,-20
+ST-00928,2026-02-05,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,58,Finished Goods Store,87,,SO-0339,-58
+ST-00929,2026-02-06,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,39,Finished Goods Store,126,,,39
+ST-00930,2026-02-06,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,38,Finished Goods Store,164,,,38
+ST-00931,2026-02-08,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,57,Finished Goods Store,107,,SO-0229,-57
+ST-00932,2026-02-09,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,39,Finished Goods Store,68,,SO-0341,-39
+ST-00933,2026-02-09,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,21,Finished Goods Store,89,,,21
+ST-00934,2026-02-10,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,56,Finished Goods Store,145,,,56
+ST-00935,2026-02-13,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,124,,SO-0234,-21
+ST-00936,2026-02-13,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,31,Finished Goods Store,155,,,31
+ST-00937,2026-02-14,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,18,Finished Goods Store,173,,,18
+ST-00938,2026-02-16,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,38,Finished Goods Store,135,,SO-0232,-38
+ST-00939,2026-02-16,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,32,Finished Goods Store,167,,,32
+ST-00940,2026-02-18,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,56,Finished Goods Store,111,,SO-0345,-56
+ST-00941,2026-02-19,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,80,,SO-0236,-31
+ST-00942,2026-02-19,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,62,,SO-0344,-18
+ST-00943,2026-02-19,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,42,Finished Goods Store,104,,,42
+ST-00944,2026-02-23,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,32,Finished Goods Store,72,,SO-0346,-32
+ST-00945,2026-02-23,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,44,Finished Goods Store,116,,,44
+ST-00946,2026-02-26,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,36,Finished Goods Store,152,,,36
+ST-00947,2026-02-26,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,48,Finished Goods Store,200,,,48
+ST-00948,2026-02-27,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,42,Finished Goods Store,158,,SO-0347,-42
+ST-00949,2026-03-01,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,23,Finished Goods Store,181,,,23
+ST-00950,2026-03-03,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,22,Finished Goods Store,203,,,22
+ST-00951,2026-03-08,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,40,Finished Goods Store,243,,,40
+ST-00952,2026-03-11,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,33,Finished Goods Store,276,,,33
+ST-00953,2026-03-11,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,28,Finished Goods Store,304,,,28
+ST-00954,2026-03-13,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,42,Finished Goods Store,346,,,42
+ST-00955,2026-03-15,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,38,Finished Goods Store,384,,,38
+ST-00956,2026-03-16,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,55,Finished Goods Store,439,,,55
+ST-00957,2026-03-18,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,38,Finished Goods Store,477,,,38
+ST-00958,2026-03-19,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,44,Finished Goods Store,433,,SO-0350,-44
+ST-00959,2026-03-22,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,36,Finished Goods Store,397,,SO-0242,-36
+ST-00960,2026-03-25,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,35,Finished Goods Store,432,,,35
+ST-00961,2026-03-28,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,48,Finished Goods Store,384,,SO-0349,-48
+ST-00962,2026-03-28,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,361,,SO-0246,-23
+ST-00963,2026-03-29,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,52,Finished Goods Store,413,,,52
+ST-00964,2026-04-01,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,58,Finished Goods Store,471,,,58
+ST-00965,2026-04-04,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,449,,SO-0351,-22
+ST-00966,2026-04-04,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,38,Finished Goods Store,487,,,38
+ST-00967,2026-04-05,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,56,Finished Goods Store,543,,,56
+ST-00968,2026-04-05,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,42,Finished Goods Store,585,,,42
+ST-00969,2026-04-06,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,55,Finished Goods Store,530,,SO-0358,-55
+ST-00970,2026-04-07,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,38,Finished Goods Store,492,,SO-0353,-38
+ST-00971,2026-04-07,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,59,Finished Goods Store,551,,,59
+ST-00972,2026-04-08,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,58,Finished Goods Store,493,,SO-0260,-58
+ST-00973,2026-04-08,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,21,Finished Goods Store,514,,,21
+ST-00974,2026-04-10,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,51,Finished Goods Store,565,,,51
+ST-00975,2026-04-11,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,33,Finished Goods Store,532,,SO-0356,-33
+ST-00976,2026-04-12,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,38,Finished Goods Store,494,,SO-0251,-38
+ST-00977,2026-04-12,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,52,Finished Goods Store,442,,SO-0362,-52
+ST-00978,2026-04-12,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,56,Finished Goods Store,386,,SO-0257,-56
+ST-00979,2026-04-12,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,38,Finished Goods Store,348,,SO-0363,-38
+ST-00980,2026-04-12,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,23,Finished Goods Store,371,,,23
+ST-00981,2026-04-13,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,343,,SO-0354,-28
+ST-00982,2026-04-13,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,59,Finished Goods Store,284,,SO-0365,-59
+ST-00983,2026-04-14,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,40,Finished Goods Store,244,,SO-0248,-40
+ST-00984,2026-04-14,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,42,Finished Goods Store,202,,SO-0250,-42
+ST-00985,2026-04-14,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,42,Finished Goods Store,160,,SO-0366,-42
+ST-00986,2026-04-15,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,139,,SO-0262,-21
+ST-00987,2026-04-16,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,47,Finished Goods Store,186,,,47
+ST-00988,2026-04-17,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,51,Finished Goods Store,135,,SO-0264,-51
+ST-00989,2026-04-18,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,35,Finished Goods Store,100,,SO-0359,-35
+ST-00990,2026-04-18,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,47,Finished Goods Store,147,,,47
+ST-00991,2026-04-21,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,124,,SO-0267,-23
+ST-00992,2026-04-21,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,47,Finished Goods Store,77,,SO-0268,-47
+ST-00993,2026-04-22,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,23,Finished Goods Store,100,,,23
+ST-00994,2026-04-27,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,27,Finished Goods Store,127,,,27
+ST-00995,2026-04-28,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,47,Finished Goods Store,80,,SO-0278,-47
+ST-00996,2026-05-01,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,57,,SO-0274,-23
+ST-00997,2026-05-01,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,16,Finished Goods Store,73,,,16
+ST-00998,2026-05-01,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,17,Finished Goods Store,90,,,17
+ST-00999,2026-05-03,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,63,,SO-0374,-27
+ST-01000,2026-05-04,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,16,Finished Goods Store,79,,,16
+ST-01001,2026-05-04,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,22,Finished Goods Store,101,,,22
+ST-01002,2026-05-05,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,23,Finished Goods Store,124,,,23
+ST-01003,2026-05-06,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,16,Finished Goods Store,108,,SO-0279,-16
+ST-01004,2026-05-08,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,16,Finished Goods Store,92,,SO-0287,-16
+ST-01005,2026-05-10,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,23,Finished Goods Store,69,,SO-0288,-23
+ST-01006,2026-05-10,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,17,Finished Goods Store,86,,,17
+ST-01007,2026-05-11,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,47,Finished Goods Store,133,,,47
+ST-01008,2026-05-11,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,21,Finished Goods Store,154,,,21
+ST-01009,2026-05-13,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,49,Finished Goods Store,203,,,49
+ST-01010,2026-05-14,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,186,,SO-0375,-17
+ST-01011,2026-05-14,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,164,,SO-0286,-22
+ST-01012,2026-05-14,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,26,Finished Goods Store,190,,,26
+ST-01013,2026-05-16,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,47,Finished Goods Store,143,,SO-0379,-47
+ST-01014,2026-05-19,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,126,,SO-0291,-17
+ST-01015,2026-05-19,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,33,Finished Goods Store,159,,,33
+ST-01016,2026-05-19,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,40,Finished Goods Store,199,,,40
+ST-01017,2026-05-20,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,49,Finished Goods Store,150,,SO-0380,-49
+ST-01018,2026-05-21,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,46,Finished Goods Store,196,,,46
+ST-01019,2026-05-22,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,170,,SO-0378,-26
+ST-01020,2026-05-22,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,35,Finished Goods Store,205,,,35
+ST-01021,2026-05-22,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,42,Finished Goods Store,247,,,42
+ST-01022,2026-05-23,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,226,,SO-0289,-21
+ST-01023,2026-05-23,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,33,Finished Goods Store,193,,SO-0381,-33
+ST-01024,2026-05-24,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,28,Finished Goods Store,221,,,28
+ST-01025,2026-05-26,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,40,Finished Goods Store,181,,SO-0297,-40
+ST-01026,2026-05-28,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,26,Finished Goods Store,207,,,26
+ST-01027,2026-05-29,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,42,Finished Goods Store,165,,SO-0296,-42
+ST-01028,2026-05-29,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,41,Finished Goods Store,206,,,41
+ST-01029,2026-05-30,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,46,Finished Goods Store,160,,SO-0295,-46
+ST-01030,2026-05-30,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,35,Finished Goods Store,125,,SO-0383,-35
+ST-01031,2026-06-01,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,97,,SO-0385,-28
+ST-01032,2026-06-02,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,71,,SO-0301,-26
+ST-01033,2026-06-03,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,41,Finished Goods Store,30,,SO-0299,-41
+ST-01034,2026-06-03,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,59,Finished Goods Store,89,,,59
+ST-01035,2026-06-04,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,44,Finished Goods Store,133,,,44
+ST-01036,2026-06-07,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,44,Finished Goods Store,89,,SO-0389,-44
+ST-01037,2026-06-08,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,24,Finished Goods Store,113,,,24
+ST-01038,2026-06-10,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,22,Finished Goods Store,135,,,22
+ST-01039,2026-06-11,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,43,Finished Goods Store,178,,,43
+ST-01040,2026-06-11,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,52,Finished Goods Store,230,,,52
+ST-01041,2026-06-12,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,36,Finished Goods Store,266,,,36
+ST-01042,2026-06-12,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,21,Finished Goods Store,287,,,21
+ST-01043,2026-06-13,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,265,,SO-0392,-22
+ST-01044,2026-06-17,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,43,Finished Goods Store,222,,SO-0309,-43
+ST-01045,2026-06-17,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,43,Finished Goods Store,265,,,43
+ST-01046,2026-06-18,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,59,Finished Goods Store,206,,SO-0387,-59
+ST-01047,2026-06-18,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,56,Finished Goods Store,262,,,56
+ST-01048,2026-06-19,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,241,,SO-0390,-21
+ST-01049,2026-06-19,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,56,Finished Goods Store,297,,,56
+ST-01050,2026-06-19,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,15,Finished Goods Store,312,,,15
+ST-01051,2026-06-20,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,30,Finished Goods Store,342,,,30
+ST-01052,2026-06-21,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,52,Finished Goods Store,290,,SO-0310,-52
+ST-01053,2026-06-22,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,24,Finished Goods Store,266,,SO-0311,-24
+ST-01054,2026-06-22,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,36,Finished Goods Store,230,,SO-0308,-36
+ST-01055,2026-06-22,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,44,Finished Goods Store,274,,,44
+ST-01056,2026-06-24,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,56,Finished Goods Store,218,,SO-0315,-56
+ST-01057,2026-06-25,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,56,Finished Goods Store,162,,SO-0394,-56
+ST-01058,2026-06-26,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,43,Finished Goods Store,119,,SO-0317,-43
+ST-01059,2026-06-26,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,26,Finished Goods Store,145,,,26
+ST-01060,2026-06-26,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,56,Finished Goods Store,201,,,56
+ST-01061,2026-06-28,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,186,,SO-0395,-15
+ST-01062,2026-06-29,SKU-HM01,Hammer - Standard,Finished Good,Dispatch-to-Sales,30,Finished Goods Store,156,,SO-0314,-30
+ST-01063,2026-06-29,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,26,Finished Goods Store,182,,,26
+ST-01064,2026-07-04,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,27,Finished Goods Store,209,,,27
+ST-01065,2026-07-05,SKU-HM01,Hammer - Standard,Finished Good,Finished Goods-In,38,Finished Goods Store,247,,,38
+ST-01066,2026-01-07,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,29,Finished Goods Store,62,,,29
+ST-01067,2026-01-11,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,33,,SO-0217,-29
+ST-01068,2026-01-11,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,26,Finished Goods Store,59,,,26
+ST-01069,2026-01-17,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,25,Finished Goods Store,84,,,25
+ST-01070,2026-01-18,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,24,Finished Goods Store,108,,,24
+ST-01071,2026-01-21,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,82,,SO-0218,-26
+ST-01072,2026-01-22,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,25,Finished Goods Store,57,,SO-0221,-25
+ST-01073,2026-01-22,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,24,Finished Goods Store,33,,SO-0222,-24
+ST-01074,2026-02-02,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,19,Finished Goods Store,52,,,19
+ST-01075,2026-02-07,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,33,,SO-0226,-19
+ST-01076,2026-02-10,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,26,Finished Goods Store,59,,,26
+ST-01077,2026-02-13,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,33,,SO-0235,-26
+ST-01078,2026-02-17,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,28,Finished Goods Store,61,,,28
+ST-01079,2026-02-22,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,33,,SO-0238,-28
+ST-01080,2026-02-22,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,10,Finished Goods Store,43,,,10
+ST-01081,2026-03-03,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,31,Finished Goods Store,74,,,31
+ST-01082,2026-03-04,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,15,Finished Goods Store,89,,,15
+ST-01083,2026-03-07,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,22,Finished Goods Store,111,,,22
+ST-01084,2026-03-21,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,101,,SO-0241,-10
+ST-01085,2026-03-27,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,70,,SO-0245,-31
+ST-01086,2026-03-29,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,16,Finished Goods Store,86,,,16
+ST-01087,2026-03-31,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,11,Finished Goods Store,97,,,11
+ST-01088,2026-04-01,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,82,,SO-0247,-15
+ST-01089,2026-04-02,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,10,Finished Goods Store,92,,,10
+ST-01090,2026-04-04,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,21,Finished Goods Store,113,,,21
+ST-01091,2026-04-05,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,18,Finished Goods Store,131,,,18
+ST-01092,2026-04-09,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,120,,SO-0258,-11
+ST-01093,2026-04-09,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,110,,SO-0259,-10
+ST-01094,2026-04-12,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,88,,SO-0249,-22
+ST-01095,2026-04-12,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,70,,SO-0265,-18
+ST-01096,2026-04-12,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,28,Finished Goods Store,98,,,28
+ST-01097,2026-04-13,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,28,Finished Goods Store,126,,,28
+ST-01098,2026-04-13,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,27,Finished Goods Store,153,,,27
+ST-01099,2026-04-14,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,132,,SO-0266,-21
+ST-01100,2026-04-15,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,104,,SO-0261,-28
+ST-01101,2026-04-15,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,76,,SO-0402,-28
+ST-01102,2026-04-17,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,9,Finished Goods Store,85,,,9
+ST-01103,2026-04-20,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,16,Finished Goods Store,69,,SO-0254,-16
+ST-01104,2026-04-20,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,20,Finished Goods Store,89,,,20
+ST-01105,2026-04-20,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,34,Finished Goods Store,123,,,34
+ST-01106,2026-04-22,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,114,,SO-0271,-9
+ST-01107,2026-04-25,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,87,,SO-0270,-27
+ST-01108,2026-04-26,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,8,Finished Goods Store,95,,,8
+ST-01109,2026-04-27,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,87,,SO-0277,-8
+ST-01110,2026-04-27,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,9,Finished Goods Store,96,,,9
+ST-01111,2026-04-28,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,76,,SO-0273,-20
+ST-01112,2026-04-28,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,34,Finished Goods Store,42,,SO-0275,-34
+ST-01113,2026-04-30,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,31,Finished Goods Store,73,,,31
+ST-01114,2026-05-01,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,31,Finished Goods Store,104,,,31
+ST-01115,2026-05-02,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,8,Finished Goods Store,112,,,8
+ST-01116,2026-05-04,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,9,Finished Goods Store,103,,SO-0283,-9
+ST-01117,2026-05-04,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,72,,SO-0281,-31
+ST-01118,2026-05-11,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,8,Finished Goods Store,64,,SO-0280,-8
+ST-01119,2026-05-12,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,31,Finished Goods Store,33,,SO-0284,-31
+ST-01120,2026-05-13,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,25,Finished Goods Store,58,,,25
+ST-01121,2026-05-19,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,25,Finished Goods Store,33,,SO-0290,-25
+ST-01122,2026-05-19,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,28,Finished Goods Store,61,,,28
+ST-01123,2026-05-23,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,24,Finished Goods Store,85,,,24
+ST-01124,2026-05-29,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,57,,SO-0298,-28
+ST-01125,2026-06-04,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,24,Finished Goods Store,33,,SO-0300,-24
+ST-01126,2026-06-05,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,15,Finished Goods Store,48,,,15
+ST-01127,2026-06-12,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,13,Finished Goods Store,61,,,13
+ST-01128,2026-06-13,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,30,Finished Goods Store,91,,,30
+ST-01129,2026-06-17,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,76,,SO-0305,-15
+ST-01130,2026-06-18,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,30,Finished Goods Store,46,,SO-0312,-30
+ST-01131,2026-06-22,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,22,Finished Goods Store,68,,,22
+ST-01132,2026-06-23,SKU-HM02,Shredder Hammer,Finished Good,Finished Goods-In,28,Finished Goods Store,96,,,28
+ST-01133,2026-06-26,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,83,,SO-0313,-13
+ST-01134,2026-06-27,SKU-HM02,Shredder Hammer,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,61,,SO-0316,-22
+ST-01135,2026-01-06,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,10,Finished Goods Store,32,,,10
+ST-01136,2026-01-14,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,22,,SO-0330,-10
+ST-01137,2026-01-14,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,34,Finished Goods Store,56,,,34
+ST-01138,2026-01-16,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,34,Finished Goods Store,22,,SO-0331,-34
+ST-01139,2026-01-17,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,15,Finished Goods Store,37,,,15
+ST-01140,2026-01-22,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,11,Finished Goods Store,48,,,11
+ST-01141,2026-01-24,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,20,Finished Goods Store,68,,,20
+ST-01142,2026-01-25,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,53,,SO-0333,-15
+ST-01143,2026-01-25,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,20,Finished Goods Store,73,,,20
+ST-01144,2026-01-30,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,53,,SO-0337,-20
+ST-01145,2026-02-01,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,11,Finished Goods Store,42,,SO-0336,-11
+ST-01146,2026-02-05,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,22,,SO-0338,-20
+ST-01147,2026-02-07,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,38,Finished Goods Store,60,,,38
+ST-01148,2026-02-07,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,21,Finished Goods Store,81,,,21
+ST-01149,2026-02-11,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,21,Finished Goods Store,60,,SO-0340,-21
+ST-01150,2026-02-11,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,20,Finished Goods Store,80,,,20
+ST-01151,2026-02-17,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,38,Finished Goods Store,42,,SO-0342,-38
+ST-01152,2026-02-17,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,22,,SO-0343,-20
+ST-01153,2026-02-27,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,27,Finished Goods Store,49,,,27
+ST-01154,2026-03-05,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,15,Finished Goods Store,64,,,15
+ST-01155,2026-03-10,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,18,Finished Goods Store,82,,,18
+ST-01156,2026-03-17,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,24,Finished Goods Store,106,,,24
+ST-01157,2026-03-25,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,27,Finished Goods Store,79,,SO-0348,-27
+ST-01158,2026-03-26,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,17,Finished Goods Store,96,,,17
+ST-01159,2026-03-26,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,20,Finished Goods Store,116,,,20
+ST-01160,2026-04-05,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,10,Finished Goods Store,126,,,10
+ST-01161,2026-04-06,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,111,,SO-0352,-15
+ST-01162,2026-04-07,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,93,,SO-0355,-18
+ST-01163,2026-04-11,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,37,Finished Goods Store,130,,,37
+ST-01164,2026-04-13,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,10,Finished Goods Store,120,,SO-0364,-10
+ST-01165,2026-04-17,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,37,Finished Goods Store,83,,SO-0367,-37
+ST-01166,2026-04-18,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,26,Finished Goods Store,109,,,26
+ST-01167,2026-04-19,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,34,Finished Goods Store,143,,,34
+ST-01168,2026-04-23,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,24,Finished Goods Store,119,,SO-0357,-24
+ST-01169,2026-04-23,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,30,Finished Goods Store,149,,,30
+ST-01170,2026-04-23,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,41,Finished Goods Store,190,,,41
+ST-01171,2026-04-24,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,28,Finished Goods Store,218,,,28
+ST-01172,2026-04-27,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,20,Finished Goods Store,198,,SO-0360,-20
+ST-01173,2026-04-28,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,26,Finished Goods Store,224,,,26
+ST-01174,2026-04-29,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,34,Finished Goods Store,190,,SO-0368,-34
+ST-01175,2026-04-29,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,30,Finished Goods Store,160,,SO-0371,-30
+ST-01176,2026-04-30,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,134,,SO-0369,-26
+ST-01177,2026-05-01,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,17,Finished Goods Store,117,,SO-0361,-17
+ST-01178,2026-05-02,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,28,Finished Goods Store,89,,SO-0370,-28
+ST-01179,2026-05-02,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,41,Finished Goods Store,48,,SO-0372,-41
+ST-01180,2026-05-04,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,29,Finished Goods Store,77,,,29
+ST-01181,2026-05-07,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,26,Finished Goods Store,51,,SO-0373,-26
+ST-01182,2026-05-10,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,19,Finished Goods Store,70,,,19
+ST-01183,2026-05-13,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,19,Finished Goods Store,51,,SO-0377,-19
+ST-01184,2026-05-16,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,29,Finished Goods Store,22,,SO-0376,-29
+ST-01185,2026-05-19,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,15,Finished Goods Store,37,,,15
+ST-01186,2026-05-19,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,39,Finished Goods Store,76,,,39
+ST-01187,2026-05-24,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,15,Finished Goods Store,61,,SO-0384,-15
+ST-01188,2026-05-27,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,13,Finished Goods Store,74,,,13
+ST-01189,2026-05-28,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,39,Finished Goods Store,35,,SO-0382,-39
+ST-01190,2026-06-02,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,13,Finished Goods Store,22,,SO-0386,-13
+ST-01191,2026-06-05,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,14,Finished Goods Store,36,,,14
+ST-01192,2026-06-08,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,14,Finished Goods Store,22,,SO-0388,-14
+ST-01193,2026-06-09,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,18,Finished Goods Store,40,,,18
+ST-01194,2026-06-15,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,36,Finished Goods Store,76,,,36
+ST-01195,2026-06-15,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,22,Finished Goods Store,98,,,22
+ST-01196,2026-06-16,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,18,Finished Goods Store,80,,SO-0391,-18
+ST-01197,2026-06-25,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,36,Finished Goods Store,44,,SO-0396,-36
+ST-01198,2026-06-27,SKU-WP01,Wear Plate,Finished Good,Dispatch-to-Sales,22,Finished Goods Store,22,,SO-0393,-22
+ST-01199,2026-06-28,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,13,Finished Goods Store,35,,,13
+ST-01200,2026-06-28,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,34,Finished Goods Store,69,,,34
+ST-01201,2026-07-03,SKU-WP01,Wear Plate,Finished Good,Finished Goods-In,39,Finished Goods Store,108,,,39

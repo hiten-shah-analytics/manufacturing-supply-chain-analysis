@@ -1,0 +1,402 @@
+Order_ID,Order_Date,Customer_Name,Customer_Industry,Region,Product_SKU,Product_Name,Quantity_Units,Unit_Price_INR,Total_Value_INR,Sales_Rep,Promised_Dispatch_Date,Actual_Dispatch_Date,Order_Status,dispatch_lag,Days_Late,Dispatched_Late
+SO-0001,2026-01-01,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,8,10011.87,80094.96,Rep A,2026-01-13,2026-01-11,Fulfilled,10.0,-2.0,False
+SO-0002,2026-01-01,Sunrise Sugars,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,12,9559.43,114713.16,Rep A,2026-01-15,2026-01-18,Fulfilled,17.0,3.0,True
+SO-0216,2026-01-01,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,7,6796.65,47576.55,Rep B,2026-01-09,2026-01-09,Fulfilled,8.0,0.0,False
+SO-0330,2026-01-01,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,10,3091.31,30913.1,Rep C,2026-01-14,2026-01-14,Fulfilled,13.0,0.0,False
+SO-0088,2026-01-01,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,22,8341.16,183505.52,Rep A,2026-01-10,2026-01-11,Fulfilled,10.0,1.0,True
+SO-0087,2026-01-01,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,19,5771.58,109660.02,Rep C,2026-01-12,,Cancelled,,,False
+SO-0003,2026-01-02,Sunrise Sugars,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,16,9906.22,158499.52,Rep B,2026-01-13,2026-01-12,Fulfilled,10.0,-1.0,False
+SO-0219,2026-01-02,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,28,6736.31,188616.68,Rep C,2026-01-11,2026-01-13,Fulfilled,11.0,2.0,True
+SO-0006,2026-01-02,Greenfield Sugar Works,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,3,7548.85,22646.55,Rep A,2026-01-16,2026-01-17,Fulfilled,15.0,1.0,True
+SO-0217,2026-01-03,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,29,4441.6,128806.4,Rep B,2026-01-10,2026-01-11,Fulfilled,8.0,1.0,True
+SO-0329,2026-01-04,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,29,2181.44,63261.76,Rep D,2026-01-16,2026-01-14,Fulfilled,10.0,-2.0,False
+SO-0005,2026-01-05,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,17,9412.2,160007.4,Rep D,2026-01-18,2026-01-21,Fulfilled,16.0,3.0,True
+SO-0007,2026-01-06,Sunrise Sugars,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,9,7749.59,69746.31,Rep D,2026-01-14,2026-01-15,Fulfilled,9.0,1.0,True
+SO-0085,2026-01-06,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,27,7174.29,193705.83,Rep A,2026-01-16,2026-01-15,Fulfilled,9.0,-1.0,False
+SO-0086,2026-01-06,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,24,5859.68,140632.32,Rep D,2026-01-14,2026-01-17,Fulfilled,11.0,3.0,True
+SO-0218,2026-01-07,Eastern Ore & Minerals,Mining,Odisha,SKU-HM02,Shredder Hammer,26,4493.01,116818.26,Rep B,2026-01-20,2026-01-21,Fulfilled,14.0,1.0,True
+SO-0004,2026-01-07,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,4,9763.95,39055.8,Rep D,2026-01-16,2026-01-14,Fulfilled,7.0,-2.0,False
+SO-0332,2026-01-08,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,30,2238.13,67143.9,Rep B,2026-01-17,2026-01-15,Fulfilled,7.0,-2.0,False
+SO-0331,2026-01-09,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,34,3239.5,110143.0,Rep A,2026-01-16,2026-01-16,Fulfilled,7.0,0.0,False
+SO-0089,2026-01-09,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,11,6955.21,76507.31,Rep A,2026-01-19,2026-01-21,Fulfilled,12.0,2.0,True
+SO-0009,2026-01-09,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,6,14739.27,88435.62,Rep C,2026-01-20,2026-01-23,Fulfilled,14.0,3.0,True
+SO-0090,2026-01-11,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,10,8378.24,83782.4,Rep B,2026-01-22,2026-01-24,Fulfilled,13.0,2.0,True
+SO-0091,2026-01-11,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,13,8281.05,107653.65,Rep B,2026-01-23,2026-01-25,Fulfilled,14.0,2.0,True
+SO-0012,2026-01-11,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,6,14587.58,87525.48,Rep A,2026-01-20,2026-01-23,Fulfilled,12.0,3.0,True
+SO-0221,2026-01-12,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,25,4278.11,106952.75,Rep A,2026-01-20,2026-01-22,Fulfilled,10.0,2.0,True
+SO-0011,2026-01-12,Sunrise Sugars,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,20,2933.74,58674.8,Rep D,2026-01-19,2026-01-19,Fulfilled,7.0,0.0,False
+SO-0220,2026-01-13,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,30,2187.82,65634.6,Rep D,2026-01-20,2026-01-21,Fulfilled,8.0,1.0,True
+SO-0010,2026-01-13,Sunrise Sugars,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,3,7636.83,22910.49,Rep B,2026-01-27,2026-01-29,Fulfilled,16.0,2.0,True
+SO-0092,2026-01-13,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,8,8542.63,68341.04,Rep B,2026-01-26,2026-01-28,Fulfilled,15.0,2.0,True
+SO-0013,2026-01-14,Valley Sugar Mills,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,9,7531.69,67785.21,Rep D,2026-01-24,2026-01-23,Fulfilled,9.0,-1.0,False
+SO-0008,2026-01-14,Sunrise Sugars,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,6,7497.15,44982.9,Rep B,2026-01-23,2026-01-26,Fulfilled,12.0,3.0,True
+SO-0222,2026-01-14,Eastern Ore & Minerals,Mining,Odisha,SKU-HM02,Shredder Hammer,24,4225.58,101413.92,Rep B,2026-01-21,2026-01-22,Fulfilled,8.0,1.0,True
+SO-0333,2026-01-14,Northgate Thermal Power,Power,Maharashtra,SKU-WP01,Wear Plate,15,3199.83,47997.45,Rep B,2026-01-24,2026-01-25,Fulfilled,11.0,1.0,True
+SO-0096,2026-01-15,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,12,8352.43,100229.16,Rep D,2026-01-24,2026-01-24,Fulfilled,9.0,0.0,False
+SO-0097,2026-01-15,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,16,8396.89,134350.24,Rep A,2026-01-24,2026-01-22,Fulfilled,7.0,-2.0,False
+SO-0095,2026-01-15,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,18,7335.65,132041.7,Rep D,2026-01-27,2026-01-30,Returned-Rework,15.0,3.0,True
+SO-0225,2026-01-16,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,58,2230.51,129369.58,Rep A,2026-01-23,2026-01-21,Fulfilled,5.0,-2.0,False
+SO-0223,2026-01-16,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,22,2160.49,47530.78,Rep C,2026-01-30,2026-01-31,Fulfilled,15.0,1.0,True
+SO-0017,2026-01-16,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,3,14765.9,44297.7,Rep D,2026-01-23,2026-01-22,Fulfilled,6.0,-1.0,False
+SO-0098,2026-01-17,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,17,8477.97,144125.49,Rep C,2026-01-26,2026-01-24,Fulfilled,7.0,-2.0,False
+SO-0335,2026-01-17,Southern Power Corp,Power,Karnataka,SKU-HM01,Hammer - Standard,40,2226.0,89040.0,Rep A,2026-01-30,2026-02-01,Fulfilled,15.0,2.0,True
+SO-0019,2026-01-17,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,7,9473.83,66316.81,Rep A,2026-01-27,2026-01-29,Fulfilled,12.0,2.0,True
+SO-0020,2026-01-17,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,14,9862.7,138077.8,Rep D,2026-01-31,2026-02-02,Fulfilled,16.0,2.0,True
+SO-0015,2026-01-17,Sunrise Sugars,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,6,10120.32,60721.92,Rep B,2026-01-28,2026-01-29,Fulfilled,12.0,1.0,True
+SO-0337,2026-01-19,Lakeside Power Station,Power,Maharashtra,SKU-WP01,Wear Plate,20,3100.87,62017.4,Rep A,2026-01-30,2026-01-30,Fulfilled,11.0,0.0,False
+SO-0336,2026-01-19,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,11,3108.49,34193.39,Rep D,2026-01-30,2026-02-01,Fulfilled,13.0,2.0,True
+SO-0334,2026-01-20,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,20,2169.58,43391.6,Rep C,2026-02-03,2026-02-03,Fulfilled,14.0,0.0,False
+SO-0016,2026-01-20,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,11,14384.44,158228.84,Rep A,2026-01-29,2026-01-31,Fulfilled,11.0,2.0,True
+SO-0094,2026-01-21,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,28,5845.22,163666.16,Rep B,2026-02-04,2026-02-03,Fulfilled,13.0,-1.0,False
+SO-0093,2026-01-21,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,23,5901.03,135723.69,Rep B,2026-02-04,2026-02-07,Fulfilled,17.0,3.0,True
+SO-0224,2026-01-21,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,28,2156.74,60388.72,Rep A,2026-02-01,2026-01-30,Fulfilled,9.0,-2.0,False
+SO-0018,2026-01-21,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,9,7687.65,69188.85,Rep D,2026-02-04,2026-02-07,Fulfilled,17.0,3.0,True
+SO-0014,2026-01-21,Sunrise Sugars,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,9,7662.41,68961.69,Rep C,2026-02-01,2026-02-02,Fulfilled,12.0,1.0,True
+SO-0227,2026-01-22,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,18,6984.29,125717.22,Rep D,2026-02-02,2026-02-01,Fulfilled,10.0,-1.0,False
+SO-0022,2026-01-22,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,6,14081.46,84488.76,Rep D,2026-02-01,2026-02-01,Fulfilled,10.0,0.0,False
+SO-0228,2026-01-22,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,31,2240.35,69450.85,Rep D,2026-01-30,2026-01-31,Fulfilled,9.0,1.0,True
+SO-0103,2026-01-23,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,13,8340.87,108431.31,Rep B,2026-01-30,2026-02-02,Fulfilled,10.0,3.0,True
+SO-0338,2026-01-23,Lakeside Power Station,Power,Maharashtra,SKU-WP01,Wear Plate,20,3217.77,64355.4,Rep B,2026-02-03,2026-02-05,Fulfilled,13.0,2.0,True
+SO-0021,2026-01-24,Sunrise Sugars,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,4,14532.03,58128.12,Rep D,2026-02-02,2026-01-31,Fulfilled,7.0,-2.0,False
+SO-0339,2026-01-24,Southern Power Corp,Power,Karnataka,SKU-HM01,Hammer - Standard,58,2282.29,132372.82,Rep C,2026-02-07,2026-02-05,Fulfilled,12.0,-2.0,False
+SO-0024,2026-01-24,Greenfield Sugar Works,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,4,7659.77,30639.08,Rep D,2026-01-31,2026-02-03,Fulfilled,10.0,3.0,True
+SO-0101,2026-01-26,Summit Cement Ltd,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,36,5732.25,206361.0,Rep B,2026-02-02,2026-02-02,Fulfilled,7.0,0.0,False
+SO-0102,2026-01-26,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,19,5804.11,110278.09,Rep B,2026-02-02,2026-02-02,Fulfilled,7.0,0.0,False
+SO-0027,2026-01-26,Sunrise Sugars,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,8,10007.29,80058.32,Rep A,2026-02-05,2026-02-03,Fulfilled,8.0,-2.0,False
+SO-0025,2026-01-26,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,9,9713.74,87423.66,Rep B,2026-02-02,2026-01-31,Fulfilled,5.0,-2.0,False
+SO-0100,2026-01-27,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,6,8695.79,52174.74,Rep D,2026-02-07,2026-02-06,Fulfilled,10.0,-1.0,False
+SO-0026,2026-01-27,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,5,9225.82,46129.1,Rep D,2026-02-04,2026-02-03,Fulfilled,7.0,-1.0,False
+SO-0023,2026-01-27,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,4,13872.95,55491.8,Rep D,2026-02-10,2026-02-10,Fulfilled,14.0,0.0,False
+SO-0229,2026-01-28,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,57,2206.53,125772.21,Rep A,2026-02-05,2026-02-08,Fulfilled,11.0,3.0,True
+SO-0099,2026-01-28,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,20,8348.39,166967.8,Rep B,2026-02-04,2026-02-04,Fulfilled,7.0,0.0,False
+SO-0226,2026-01-28,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,19,4506.56,85624.64,Rep C,2026-02-05,2026-02-07,Fulfilled,10.0,2.0,True
+SO-0104,2026-01-29,Summit Cement Ltd,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,23,5747.23,132186.29,Rep C,2026-02-06,2026-02-09,Fulfilled,11.0,3.0,True
+SO-0233,2026-01-29,Eastern Ore & Minerals,Mining,Odisha,SKU-CR01,Crusher Liner,28,6951.95,194654.6,Rep B,2026-02-05,2026-02-07,Fulfilled,9.0,2.0,True
+SO-0032,2026-01-29,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,14,9736.7,136313.8,Rep C,2026-02-11,2026-02-12,Fulfilled,14.0,1.0,True
+SO-0029,2026-01-30,Sunrise Sugars,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,8,7610.77,60886.16,Rep D,2026-02-07,2026-02-08,Fulfilled,9.0,1.0,True
+SO-0028,2026-01-30,Greenfield Sugar Works,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,37,3064.63,113391.31,Rep D,2026-02-13,2026-02-16,Fulfilled,17.0,3.0,True
+SO-0030,2026-01-31,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,15,9676.16,145142.4,Rep D,2026-02-12,2026-02-10,Fulfilled,10.0,-2.0,False
+SO-0108,2026-01-31,Summit Cement Ltd,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,39,6038.37,235496.43,Rep B,2026-02-07,2026-02-08,Fulfilled,8.0,1.0,True
+SO-0107,2026-01-31,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,14,7037.73,98528.22,Rep A,2026-02-11,2026-02-12,Fulfilled,12.0,1.0,True
+SO-0341,2026-02-01,Southern Power Corp,Power,Karnataka,SKU-HM01,Hammer - Standard,39,2224.84,86768.76,Rep C,2026-02-09,2026-02-09,Fulfilled,8.0,0.0,False
+SO-0109,2026-02-01,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,20,6934.36,138687.2,Rep A,2026-02-15,2026-02-17,Fulfilled,16.0,2.0,True
+SO-0231,2026-02-01,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,21,6864.87,144162.27,Rep D,2026-02-08,2026-02-10,Fulfilled,9.0,2.0,True
+SO-0105,2026-02-02,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,39,5781.91,225494.49,Rep B,2026-02-12,2026-02-12,Fulfilled,10.0,0.0,False
+SO-0342,2026-02-02,Lakeside Power Station,Power,Maharashtra,SKU-WP01,Wear Plate,38,3065.99,116507.62,Rep C,2026-02-14,2026-02-17,Fulfilled,15.0,3.0,True
+SO-0340,2026-02-02,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,21,3157.37,66304.77,Rep C,2026-02-10,2026-02-11,Fulfilled,9.0,1.0,True
+SO-0230,2026-02-02,Eastern Ore & Minerals,Mining,Odisha,SKU-CR01,Crusher Liner,8,6820.29,54562.32,Rep D,2026-02-14,2026-02-17,Fulfilled,15.0,3.0,True
+SO-0232,2026-02-03,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,38,2179.12,82806.56,Rep D,2026-02-15,2026-02-16,Fulfilled,13.0,1.0,True
+SO-0031,2026-02-03,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,9,14931.15,134380.35,Rep B,2026-02-17,2026-02-16,Fulfilled,13.0,-1.0,False
+SO-0106,2026-02-04,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,23,8279.98,190439.54,Rep A,2026-02-17,2026-02-20,Fulfilled,16.0,3.0,True
+SO-0345,2026-02-05,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,56,2220.67,124357.52,Rep D,2026-02-16,2026-02-18,Fulfilled,13.0,2.0,True
+SO-0235,2026-02-05,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,26,4395.17,114274.42,Rep D,2026-02-14,2026-02-13,Fulfilled,8.0,-1.0,False
+SO-0034,2026-02-05,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,7,14221.31,99549.17,Rep B,2026-02-14,2026-02-14,Fulfilled,9.0,0.0,False
+SO-0033,2026-02-05,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,12,9832.76,117993.12,Rep A,2026-02-15,2026-02-13,Fulfilled,8.0,-2.0,False
+SO-0234,2026-02-06,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,21,2175.57,45686.97,Rep B,2026-02-13,2026-02-13,Fulfilled,7.0,0.0,False
+SO-0110,2026-02-06,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,19,6880.56,130730.64,Rep D,2026-02-18,2026-02-18,Fulfilled,12.0,0.0,False
+SO-0111,2026-02-07,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,6,8663.29,51979.74,Rep D,2026-02-16,2026-02-14,Fulfilled,7.0,-2.0,False
+SO-0343,2026-02-07,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,20,3133.17,62663.4,Rep D,2026-02-19,2026-02-17,Fulfilled,10.0,-2.0,False
+SO-0037,2026-02-09,Valley Sugar Mills,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,8,7524.05,60192.4,Rep C,2026-02-21,2026-02-24,Fulfilled,15.0,3.0,True
+SO-0236,2026-02-09,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,31,2241.99,69501.69,Rep A,2026-02-16,2026-02-19,Returned-Rework,10.0,3.0,True
+SO-0344,2026-02-09,Lakeside Power Station,Power,Maharashtra,SKU-HM01,Hammer - Standard,18,2228.75,40117.5,Rep A,2026-02-17,2026-02-19,Fulfilled,10.0,2.0,True
+SO-0035,2026-02-09,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,5,14016.57,70082.85,Rep C,2026-02-17,2026-02-15,Fulfilled,6.0,-2.0,False
+SO-0036,2026-02-10,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,22,2894.25,63673.5,Rep B,2026-02-21,2026-02-23,Fulfilled,13.0,2.0,True
+SO-0113,2026-02-10,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,9,7075.0,63675.0,Rep C,2026-02-24,2026-02-22,Fulfilled,12.0,-2.0,False
+SO-0112,2026-02-11,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,10,6929.47,69294.7,Rep A,2026-02-24,2026-02-25,Fulfilled,14.0,1.0,True
+SO-0238,2026-02-12,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,28,4344.79,121654.12,Rep D,2026-02-24,2026-02-22,Fulfilled,10.0,-2.0,False
+SO-0115,2026-02-12,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,19,8008.55,152162.45,Rep B,2026-02-22,2026-02-22,Fulfilled,10.0,0.0,False
+SO-0116,2026-02-12,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,36,6123.93,220461.48,Rep A,2026-02-25,2026-02-26,Fulfilled,14.0,1.0,True
+SO-0040,2026-02-13,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,18,9721.47,174986.46,Rep A,2026-02-21,2026-02-20,Fulfilled,7.0,-1.0,False
+SO-0114,2026-02-14,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,28,6995.27,195867.56,Rep C,2026-02-25,2026-02-23,Fulfilled,9.0,-2.0,False
+SO-0119,2026-02-14,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,14,8329.96,116619.44,Rep C,2026-02-28,2026-03-03,Fulfilled,17.0,3.0,True
+SO-0239,2026-02-14,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,20,7004.29,140085.8,Rep A,2026-02-23,2026-02-24,Fulfilled,10.0,1.0,True
+SO-0237,2026-02-14,Eastern Ore & Minerals,Mining,Odisha,SKU-CR01,Crusher Liner,25,6996.34,174908.5,Rep A,2026-02-25,2026-02-23,Fulfilled,9.0,-2.0,False
+SO-0346,2026-02-14,Southern Power Corp,Power,Karnataka,SKU-HM01,Hammer - Standard,32,2217.04,70945.28,Rep C,2026-02-22,2026-02-23,Fulfilled,9.0,1.0,True
+SO-0038,2026-02-15,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,4,9708.86,38835.44,Rep A,2026-02-25,2026-02-25,Fulfilled,10.0,0.0,False
+SO-0117,2026-02-16,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,20,8015.49,160309.8,Rep B,2026-02-27,2026-02-25,Fulfilled,9.0,-2.0,False
+SO-0042,2026-02-17,Valley Sugar Mills,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,57,2877.59,164022.63,Rep C,2026-03-02,2026-03-05,Fulfilled,16.0,3.0,True
+SO-0347,2026-02-17,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,42,2149.23,90267.66,Rep B,2026-02-27,2026-02-27,Fulfilled,10.0,0.0,False
+SO-0039,2026-02-17,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,5,7580.83,37904.15,Rep D,2026-02-25,2026-02-24,Fulfilled,7.0,-1.0,False
+SO-0043,2026-02-18,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,2,7759.38,15518.76,Rep D,2026-03-02,2026-03-04,Returned-Rework,14.0,2.0,True
+SO-0044,2026-02-18,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,10,14508.88,145088.8,Rep C,2026-03-02,2026-03-02,Fulfilled,12.0,0.0,False
+SO-0041,2026-02-18,Valley Sugar Mills,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,9,7548.66,67937.94,Rep D,2026-03-01,2026-03-02,Fulfilled,12.0,1.0,True
+SO-0118,2026-02-18,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,37,5894.3,218089.1,Rep C,2026-03-01,2026-03-01,Fulfilled,11.0,0.0,False
+SO-0049,2026-02-19,Greenfield Sugar Works,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,22,2832.61,62317.42,Rep C,2026-03-05,2026-03-03,Fulfilled,12.0,-2.0,False
+SO-0123,2026-02-19,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,24,8105.95,194542.8,Rep C,2026-03-01,2026-02-27,Fulfilled,8.0,-2.0,False
+SO-0046,2026-02-19,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,5,14616.99,73084.95,Rep A,2026-02-27,2026-02-26,Fulfilled,7.0,-1.0,False
+SO-0243,2026-02-19,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,29,6988.07,202654.03,Rep D,2026-02-26,2026-02-24,Fulfilled,5.0,-2.0,False
+SO-0241,2026-02-20,Midland Mines,Mining,Maharashtra,SKU-HM02,Shredder Hammer,10,4407.68,44076.8,Rep A,2026-02-27,2026-03-21,Delayed,29.0,22.0,True
+SO-0240,2026-02-20,Midland Mines,Mining,Maharashtra,SKU-CR01,Crusher Liner,29,6928.8,200935.2,Rep D,2026-03-02,2026-03-25,Delayed,33.0,23.0,True
+SO-0350,2026-02-20,Lakeside Power Station,Power,Maharashtra,SKU-HM01,Hammer - Standard,44,2267.75,99781.0,Rep D,2026-03-01,2026-03-19,Delayed,27.0,18.0,True
+SO-0121,2026-02-20,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,31,5864.1,181787.1,Rep A,2026-03-06,2026-03-29,Delayed,37.0,23.0,True
+SO-0050,2026-02-21,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,10,14601.58,146015.8,Rep B,2026-03-07,2026-03-07,Fulfilled,14.0,0.0,False
+SO-0348,2026-02-22,Northgate Thermal Power,Power,Maharashtra,SKU-WP01,Wear Plate,27,3085.52,83309.04,Rep D,2026-03-02,2026-03-25,Delayed,31.0,23.0,True
+SO-0124,2026-02-22,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,12,5991.22,71894.64,Rep B,2026-03-04,2026-03-25,Delayed,31.0,21.0,True
+SO-0122,2026-02-22,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,8,8278.1,66224.8,Rep B,2026-03-04,2026-03-21,Delayed,27.0,17.0,True
+SO-0242,2026-02-22,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,36,2286.48,82313.28,Rep D,2026-03-04,2026-03-22,Delayed,28.0,18.0,True
+SO-0048,2026-02-22,Greenfield Sugar Works,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,19,2920.04,55480.76,Rep B,2026-03-04,2026-03-02,Fulfilled,8.0,-2.0,False
+SO-0047,2026-02-23,Greenfield Sugar Works,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,46,2859.07,131517.22,Rep B,2026-03-05,2026-03-07,Fulfilled,12.0,2.0,True
+SO-0045,2026-02-23,Valley Sugar Mills,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,5,7690.21,38451.05,Rep D,2026-03-06,2026-03-09,Fulfilled,14.0,3.0,True
+SO-0349,2026-02-24,Southern Power Corp,Power,Karnataka,SKU-HM01,Hammer - Standard,48,2177.77,104532.96,Rep C,2026-03-09,2026-03-28,Delayed,32.0,19.0,True
+SO-0120,2026-02-25,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,22,5749.04,126478.88,Rep A,2026-03-10,2026-03-26,Delayed,29.0,16.0,True
+SO-0245,2026-02-26,Eastern Ore & Minerals,Mining,Odisha,SKU-HM02,Shredder Hammer,31,4434.14,137458.34,Rep D,2026-03-09,2026-03-27,Delayed,29.0,18.0,True
+SO-0128,2026-02-26,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,28,6939.39,194302.92,Rep B,2026-03-05,2026-04-03,Delayed,36.0,29.0,True
+SO-0125,2026-02-27,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,18,8825.89,158866.02,Rep A,2026-03-11,2026-03-28,Delayed,29.0,17.0,True
+SO-0246,2026-02-27,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,23,2213.02,50899.46,Rep B,2026-03-10,2026-03-28,Delayed,29.0,18.0,True
+SO-0055,2026-02-27,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,3,7603.9,22811.7,Rep B,2026-03-09,2026-03-12,Fulfilled,13.0,3.0,True
+SO-0351,2026-02-27,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,22,2205.54,48521.88,Rep A,2026-03-06,2026-04-04,Delayed,36.0,29.0,True
+SO-0130,2026-02-28,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,9,7166.19,64495.71,Rep B,2026-03-08,2026-04-03,Delayed,34.0,26.0,True
+SO-0057,2026-02-28,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,19,9683.04,183977.76,Rep B,2026-03-13,2026-03-12,Fulfilled,12.0,-1.0,False
+SO-0127,2026-03-01,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,5,8466.14,42330.7,Rep A,2026-03-14,2026-04-02,Delayed,32.0,19.0,True
+SO-0053,2026-03-01,Valley Sugar Mills,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,4,7312.3,29249.2,Rep A,2026-03-11,2026-03-09,Fulfilled,8.0,-2.0,False
+SO-0126,2026-03-01,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,12,8758.76,105105.12,Rep A,2026-03-13,2026-03-28,Delayed,27.0,15.0,True
+SO-0247,2026-03-01,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,15,4497.48,67462.2,Rep D,2026-03-10,2026-04-01,Delayed,31.0,22.0,True
+SO-0352,2026-03-01,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,15,3203.53,48052.95,Rep C,2026-03-08,2026-04-06,Delayed,36.0,29.0,True
+SO-0244,2026-03-01,Midland Mines,Mining,Maharashtra,SKU-CR01,Crusher Liner,29,6982.24,202484.96,Rep D,2026-03-13,2026-04-10,Delayed,40.0,28.0,True
+SO-0051,2026-03-02,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,3,14897.93,44693.79,Rep B,2026-03-13,2026-03-15,Fulfilled,13.0,2.0,True
+SO-0056,2026-03-02,Greenfield Sugar Works,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,38,2887.3,109717.4,Rep A,2026-03-13,2026-03-14,Fulfilled,12.0,1.0,True
+SO-0052,2026-03-03,Sunrise Sugars,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,6,7549.82,45298.92,Rep B,2026-03-13,2026-03-11,Fulfilled,8.0,-2.0,False
+SO-0129,2026-03-03,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,6,6749.63,40497.78,Rep D,2026-03-12,2026-04-04,Delayed,32.0,23.0,True
+SO-0054,2026-03-03,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,13,10058.05,130754.65,Rep A,2026-03-11,2026-03-14,Fulfilled,11.0,3.0,True
+SO-0248,2026-03-05,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,40,2229.99,89199.6,Rep B,2026-03-19,2026-04-14,Delayed,40.0,26.0,True
+SO-0249,2026-03-05,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,22,4668.37,102704.14,Rep B,2026-03-17,2026-04-12,Delayed,38.0,26.0,True
+SO-0355,2026-03-05,Lakeside Power Station,Power,Maharashtra,SKU-WP01,Wear Plate,18,3138.17,56487.06,Rep B,2026-03-18,2026-04-07,Delayed,33.0,20.0,True
+SO-0135,2026-03-06,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,25,6966.48,174162.0,Rep B,2026-03-18,2026-04-16,Delayed,41.0,29.0,True
+SO-0058,2026-03-07,Valley Sugar Mills,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,31,2948.46,91402.26,Rep D,2026-03-15,2026-03-13,Fulfilled,6.0,-2.0,False
+SO-0133,2026-03-07,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,8,8581.09,68648.72,Rep D,2026-03-19,2026-04-04,Delayed,28.0,16.0,True
+SO-0059,2026-03-08,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,17,2978.71,50638.07,Rep B,2026-03-22,2026-03-21,Fulfilled,13.0,-1.0,False
+SO-0061,2026-03-08,Valley Sugar Mills,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,7,7101.83,49712.81,Rep B,2026-03-16,2026-03-18,Fulfilled,10.0,2.0,True
+SO-0356,2026-03-08,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,33,2166.02,71478.66,Rep B,2026-03-19,2026-04-11,Delayed,34.0,23.0,True
+SO-0354,2026-03-08,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,28,2185.32,61188.96,Rep B,2026-03-19,2026-04-13,Delayed,36.0,25.0,True
+SO-0134,2026-03-10,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,37,6061.98,224293.26,Rep B,2026-03-17,2026-04-14,Delayed,35.0,28.0,True
+SO-0131,2026-03-10,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,20,7042.98,140859.6,Rep B,2026-03-19,2026-04-11,Delayed,32.0,23.0,True
+SO-0353,2026-03-10,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,38,2204.12,83756.56,Rep C,2026-03-23,2026-04-07,Delayed,28.0,15.0,True
+SO-0132,2026-03-11,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,39,6032.38,235262.82,Rep A,2026-03-21,2026-04-18,Delayed,38.0,28.0,True
+SO-0250,2026-03-11,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,42,2181.38,91617.96,Rep D,2026-03-23,2026-04-14,Delayed,34.0,22.0,True
+SO-0060,2026-03-11,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,3,14597.52,43792.56,Rep B,2026-03-20,2026-03-18,Fulfilled,7.0,-2.0,False
+SO-0063,2026-03-12,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,6,7543.71,45262.26,Rep C,2026-03-25,2026-03-24,Fulfilled,12.0,-1.0,False
+SO-0252,2026-03-12,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,20,6944.15,138883.0,Rep D,2026-03-26,2026-04-11,Delayed,30.0,16.0,True
+SO-0358,2026-03-13,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,55,2207.12,121391.6,Rep C,2026-03-22,2026-04-06,Delayed,24.0,15.0,True
+SO-0136,2026-03-13,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,20,5830.1,116602.0,Rep B,2026-03-21,2026-04-08,Delayed,26.0,18.0,True
+SO-0137,2026-03-14,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,26,5886.96,153060.96,Rep A,2026-03-22,2026-04-19,Delayed,36.0,28.0,True
+SO-0357,2026-03-14,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,24,3038.61,72926.64,Rep B,2026-03-27,2026-04-23,Delayed,40.0,27.0,True
+SO-0253,2026-03-14,Eastern Ore & Minerals,Mining,Odisha,SKU-CR01,Crusher Liner,5,6911.79,34558.95,Rep D,2026-03-22,2026-04-12,Delayed,29.0,21.0,True
+SO-0139,2026-03-14,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,23,8376.69,192663.87,Rep D,2026-03-27,2026-04-17,Delayed,34.0,21.0,True
+SO-0062,2026-03-15,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,17,9435.42,160402.14,Rep A,2026-03-26,2026-03-24,Fulfilled,9.0,-2.0,False
+SO-0251,2026-03-15,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,38,2194.36,83385.68,Rep A,2026-03-23,2026-04-12,Delayed,28.0,20.0,True
+SO-0138,2026-03-16,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,20,7183.29,143665.8,Rep A,2026-03-23,2026-04-08,Delayed,23.0,16.0,True
+SO-0064,2026-03-18,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,4,14525.65,58102.6,Rep C,2026-03-29,2026-04-01,Fulfilled,14.0,3.0,True
+SO-0065,2026-03-18,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,6,14546.06,87276.36,Rep D,2026-03-26,2026-03-26,Fulfilled,8.0,0.0,False
+SO-0256,2026-03-19,Midland Mines,Mining,Maharashtra,SKU-CR01,Crusher Liner,26,7010.44,182271.44,Rep B,2026-03-29,2026-04-24,Delayed,36.0,26.0,True
+SO-0142,2026-03-22,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,25,5836.19,145904.75,Rep D,2026-04-05,2026-04-28,Delayed,37.0,23.0,True
+SO-0143,2026-03-22,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,24,8139.15,195339.6,Rep B,2026-03-30,2026-04-17,Delayed,26.0,18.0,True
+SO-0361,2026-03-22,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,17,3136.83,53326.11,Rep A,2026-04-01,2026-05-01,Delayed,40.0,30.0,True
+SO-0359,2026-03-22,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,35,2197.42,76909.7,Rep B,2026-04-02,2026-04-18,Delayed,27.0,16.0,True
+SO-0067,2026-03-22,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,7,14749.84,103248.88,Rep B,2026-04-05,2026-04-08,Fulfilled,17.0,3.0,True
+SO-0066,2026-03-23,Sunrise Sugars,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,9,14857.15,133714.35,Rep D,2026-04-04,2026-04-02,Fulfilled,10.0,-2.0,False
+SO-0140,2026-03-23,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,29,5780.67,167639.43,Rep B,2026-04-02,2026-04-29,Delayed,37.0,27.0,True
+SO-0360,2026-03-23,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,20,3205.12,64102.4,Rep A,2026-03-31,2026-04-27,Delayed,35.0,27.0,True
+SO-0255,2026-03-24,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,13,6978.68,90722.84,Rep A,2026-04-06,2026-04-29,Delayed,36.0,23.0,True
+SO-0141,2026-03-24,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,31,5778.6,179136.6,Rep A,2026-04-06,2026-04-22,Delayed,29.0,16.0,True
+SO-0068,2026-03-25,Sunrise Sugars,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,10,14448.02,144480.2,Rep A,2026-04-06,2026-04-06,Fulfilled,12.0,0.0,False
+SO-0254,2026-03-25,Eastern Ore & Minerals,Mining,Odisha,SKU-HM02,Shredder Hammer,16,4451.97,71231.52,Rep C,2026-04-01,2026-04-20,Delayed,26.0,19.0,True
+SO-0069,2026-03-25,Valley Sugar Mills,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,5,7597.22,37986.1,Rep D,2026-04-02,2026-04-04,Fulfilled,10.0,2.0,True
+SO-0144,2026-03-26,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,5,6949.13,34745.65,Rep D,2026-04-04,2026-04-04,Fulfilled,9.0,0.0,False
+SO-0258,2026-03-26,Eastern Ore & Minerals,Mining,Odisha,SKU-HM02,Shredder Hammer,11,4391.3,48304.3,Rep B,2026-04-07,2026-04-09,Fulfilled,14.0,2.0,True
+SO-0362,2026-03-26,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,52,2162.42,112445.84,Rep C,2026-04-09,2026-04-12,Fulfilled,17.0,3.0,True
+SO-0072,2026-03-28,Greenfield Sugar Works,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,56,2882.47,161418.32,Rep A,2026-04-11,2026-04-13,Fulfilled,16.0,2.0,True
+SO-0260,2026-03-29,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,58,2196.56,127400.48,Rep D,2026-04-05,2026-04-08,Fulfilled,10.0,3.0,True
+SO-0259,2026-03-29,Midland Mines,Mining,Maharashtra,SKU-HM02,Shredder Hammer,10,4434.67,44346.7,Rep A,2026-04-08,2026-04-09,Fulfilled,11.0,1.0,True
+SO-0148,2026-03-29,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,27,5900.89,159324.03,Rep C,2026-04-08,2026-04-07,Fulfilled,9.0,-1.0,False
+SO-0074,2026-03-29,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,39,2946.13,114899.07,Rep C,2026-04-07,2026-04-08,Fulfilled,10.0,1.0,True
+SO-0147,2026-03-30,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,13,8537.53,110987.89,Rep D,2026-04-10,2026-04-10,Fulfilled,11.0,0.0,False
+SO-0257,2026-03-31,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,56,2128.15,119176.4,Rep A,2026-04-14,2026-04-12,Fulfilled,12.0,-2.0,False
+SO-0146,2026-03-31,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,11,8431.83,92750.13,Rep D,2026-04-13,2026-04-15,Fulfilled,15.0,2.0,True
+SO-0071,2026-03-31,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,8,14427.03,115416.24,Rep C,2026-04-12,2026-04-17,Returned-Rework,17.0,5.0,True
+SO-0073,2026-03-31,Greenfield Sugar Works,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,4,14634.81,58539.24,Rep A,2026-04-14,2026-04-17,Fulfilled,17.0,3.0,True
+SO-0145,2026-03-31,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,21,6936.73,145671.33,Rep A,2026-04-10,2026-04-09,Fulfilled,9.0,-1.0,False
+SO-0363,2026-04-01,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,38,2214.43,84148.34,Rep C,2026-04-11,2026-04-12,Fulfilled,11.0,1.0,True
+SO-0070,2026-04-01,Sunrise Sugars,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,3,14323.99,42971.97,Rep C,2026-04-13,2026-04-13,Fulfilled,12.0,0.0,False
+SO-0364,2026-04-02,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,10,3202.21,32022.1,Rep B,2026-04-13,2026-04-13,Fulfilled,11.0,0.0,False
+SO-0365,2026-04-02,Southern Power Corp,Power,Karnataka,SKU-HM01,Hammer - Standard,59,2221.35,131059.65,Rep D,2026-04-15,2026-04-13,Fulfilled,11.0,-2.0,False
+SO-0366,2026-04-02,Lakeside Power Station,Power,Maharashtra,SKU-HM01,Hammer - Standard,42,2201.75,92473.5,Rep D,2026-04-13,2026-04-14,Fulfilled,12.0,1.0,True
+SO-0266,2026-04-02,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,21,4410.39,92618.19,Rep B,2026-04-14,2026-04-14,Fulfilled,12.0,0.0,False
+SO-0265,2026-04-02,Eastern Ore & Minerals,Mining,Odisha,SKU-HM02,Shredder Hammer,18,4354.68,78384.24,Rep C,2026-04-11,2026-04-12,Fulfilled,10.0,1.0,True
+SO-0151,2026-04-03,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,20,8426.98,168539.6,Rep D,2026-04-13,2026-04-12,Fulfilled,9.0,-1.0,False
+SO-0262,2026-04-04,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,21,2305.44,48414.24,Rep C,2026-04-15,2026-04-15,Fulfilled,11.0,0.0,False
+SO-0150,2026-04-04,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,25,5901.5,147537.5,Rep C,2026-04-17,2026-04-20,Fulfilled,16.0,3.0,True
+SO-0152,2026-04-04,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,18,6842.13,123158.34,Rep B,2026-04-11,2026-04-10,Fulfilled,6.0,-1.0,False
+SO-0264,2026-04-05,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,51,2263.6,115443.6,Rep D,2026-04-14,2026-04-17,Fulfilled,12.0,3.0,True
+SO-0263,2026-04-07,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,5,7037.32,35186.6,Rep A,2026-04-18,2026-04-21,Fulfilled,14.0,3.0,True
+SO-0149,2026-04-07,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,23,7285.1,167557.3,Rep D,2026-04-14,2026-04-17,Fulfilled,10.0,3.0,True
+SO-0261,2026-04-08,Midland Mines,Mining,Maharashtra,SKU-HM02,Shredder Hammer,28,4419.9,123757.2,Rep D,2026-04-15,2026-04-15,Fulfilled,7.0,0.0,False
+SO-0075,2026-04-08,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,6,14677.05,88062.3,Rep C,2026-04-19,2026-04-19,Fulfilled,11.0,0.0,False
+SO-0076,2026-04-08,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,6,14770.22,88621.32,Rep A,2026-04-21,2026-04-24,Fulfilled,16.0,3.0,True
+SO-0272,2026-04-09,Midland Mines,Mining,Maharashtra,SKU-CR01,Crusher Liner,27,6994.42,188849.34,Rep C,2026-04-19,2026-04-17,Fulfilled,8.0,-2.0,False
+SO-0367,2026-04-09,Northgate Thermal Power,Power,Maharashtra,SKU-WP01,Wear Plate,37,3138.99,116142.63,Rep B,2026-04-17,2026-04-17,Fulfilled,8.0,0.0,False
+SO-0153,2026-04-09,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,23,5821.31,133890.13,Rep D,2026-04-17,2026-04-16,Fulfilled,7.0,-1.0,False
+SO-0158,2026-04-09,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,14,8464.99,118509.86,Rep D,2026-04-19,2026-04-20,Fulfilled,11.0,1.0,True
+SO-0267,2026-04-10,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,23,2222.68,51121.64,Rep B,2026-04-21,2026-04-21,Fulfilled,11.0,0.0,False
+SO-0154,2026-04-10,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,11,8019.17,88210.87,Rep D,2026-04-24,2026-04-26,Fulfilled,16.0,2.0,True
+SO-0270,2026-04-11,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,27,4308.55,116330.85,Rep D,2026-04-22,2026-04-25,Fulfilled,14.0,3.0,True
+SO-0155,2026-04-11,Summit Cement Ltd,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,23,5993.47,137849.81,Rep A,2026-04-20,2026-04-21,Fulfilled,10.0,1.0,True
+SO-0268,2026-04-12,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,47,2265.46,106476.62,Rep B,2026-04-21,2026-04-21,Fulfilled,9.0,0.0,False
+SO-0157,2026-04-12,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,27,7556.59,204027.93,Rep D,2026-04-22,2026-04-24,Fulfilled,12.0,2.0,True
+SO-0077,2026-04-13,Sunrise Sugars,Sugar,Maharashtra,SKU-GR02,Grinding Roller - Heavy Duty,8,15602.68,124821.44,Rep A,2026-04-21,2026-04-24,Fulfilled,11.0,3.0,True
+SO-0271,2026-04-13,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,9,4383.02,39447.18,Rep B,2026-04-22,2026-04-22,Fulfilled,9.0,0.0,False
+SO-0369,2026-04-14,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,26,3046.55,79210.3,Rep C,2026-04-27,2026-04-30,Fulfilled,16.0,3.0,True
+SO-0156,2026-04-14,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,17,8048.09,136817.53,Rep C,2026-04-25,2026-04-28,Fulfilled,14.0,3.0,True
+SO-0368,2026-04-14,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,34,3104.81,105563.54,Rep C,2026-04-28,2026-04-29,Fulfilled,15.0,1.0,True
+SO-0078,2026-04-15,Riverbend Cooperative Sugar,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,11,2931.98,32251.78,Rep C,2026-04-23,2026-04-25,Fulfilled,10.0,2.0,True
+SO-0269,2026-04-15,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,7,7360.75,51525.25,Rep C,2026-04-29,2026-04-28,Fulfilled,13.0,-1.0,False
+SO-0276,2026-04-16,Midland Mines,Mining,Maharashtra,SKU-CR01,Crusher Liner,24,7714.38,185145.12,Rep C,2026-04-26,2026-04-27,Fulfilled,11.0,1.0,True
+SO-0278,2026-04-16,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,47,2142.39,100692.33,Rep C,2026-04-28,2026-04-28,Fulfilled,12.0,0.0,False
+SO-0079,2026-04-17,Valley Sugar Mills,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,7,7561.86,52933.02,Rep D,2026-04-27,2026-04-28,Fulfilled,11.0,1.0,True
+SO-0162,2026-04-17,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,6,7532.61,45195.66,Rep A,2026-04-27,2026-04-25,Fulfilled,8.0,-2.0,False
+SO-0273,2026-04-18,Midland Mines,Mining,Maharashtra,SKU-HM02,Shredder Hammer,20,4333.77,86675.4,Rep D,2026-04-28,2026-04-28,Fulfilled,10.0,0.0,False
+SO-0275,2026-04-18,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,34,4424.02,150416.68,Rep A,2026-04-27,2026-04-28,Fulfilled,10.0,1.0,True
+SO-0161,2026-04-20,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,15,7498.85,112482.75,Rep D,2026-05-01,2026-04-30,Fulfilled,10.0,-1.0,False
+SO-0370,2026-04-20,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,28,3113.29,87172.12,Rep C,2026-04-29,2026-05-02,Fulfilled,12.0,3.0,True
+SO-0274,2026-04-20,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,23,2200.04,50600.92,Rep D,2026-05-02,2026-05-01,Fulfilled,11.0,-1.0,False
+SO-0371,2026-04-20,Lakeside Power Station,Power,Maharashtra,SKU-WP01,Wear Plate,30,3075.98,92279.4,Rep D,2026-04-28,2026-04-29,Fulfilled,9.0,1.0,True
+SO-0160,2026-04-20,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,36,5986.91,215528.76,Rep B,2026-04-30,2026-05-02,Fulfilled,12.0,2.0,True
+SO-0163,2026-04-20,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,16,5870.83,93933.28,Rep A,2026-05-04,2026-05-07,Fulfilled,17.0,3.0,True
+SO-0372,2026-04-21,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,41,3117.57,127820.37,Rep B,2026-04-29,2026-05-02,Fulfilled,11.0,3.0,True
+SO-0159,2026-04-21,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,31,5976.23,185263.13,Rep B,2026-04-28,2026-05-01,Fulfilled,10.0,3.0,True
+SO-0277,2026-04-22,Midland Mines,Mining,Maharashtra,SKU-HM02,Shredder Hammer,8,4339.47,34715.76,Rep B,2026-04-29,2026-04-27,Fulfilled,5.0,-2.0,False
+SO-0373,2026-04-23,Northgate Thermal Power,Power,Maharashtra,SKU-WP01,Wear Plate,26,3135.12,81513.12,Rep C,2026-05-06,2026-05-07,Fulfilled,14.0,1.0,True
+SO-0374,2026-04-23,Southern Power Corp,Power,Karnataka,SKU-HM01,Hammer - Standard,27,2241.13,60510.51,Rep C,2026-04-30,2026-05-03,Fulfilled,10.0,3.0,True
+SO-0283,2026-04-23,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,9,4411.17,39700.53,Rep A,2026-05-05,2026-05-04,Fulfilled,11.0,-1.0,False
+SO-0165,2026-04-23,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,15,7625.11,114376.65,Rep A,2026-05-06,2026-05-07,Fulfilled,14.0,1.0,True
+SO-0166,2026-04-25,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,26,7625.76,198269.76,Rep B,2026-05-06,2026-05-07,Fulfilled,12.0,1.0,True
+SO-0279,2026-04-26,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,16,2214.66,35434.56,Rep C,2026-05-04,2026-05-06,Fulfilled,10.0,2.0,True
+SO-0164,2026-04-27,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,15,7524.51,112867.65,Rep B,2026-05-06,2026-05-09,Fulfilled,12.0,3.0,True
+SO-0281,2026-04-27,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,31,4408.03,136648.93,Rep B,2026-05-05,2026-05-04,Fulfilled,7.0,-1.0,False
+SO-0280,2026-04-27,Eastern Ore & Minerals,Mining,Odisha,SKU-HM02,Shredder Hammer,8,4302.34,34418.72,Rep B,2026-05-09,2026-05-11,Fulfilled,14.0,2.0,True
+SO-0284,2026-04-28,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,31,4311.56,133658.36,Rep D,2026-05-11,2026-05-12,Fulfilled,14.0,1.0,True
+SO-0080,2026-04-28,Sunrise Sugars,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,38,2940.45,111737.1,Rep B,2026-05-05,2026-05-05,Fulfilled,7.0,0.0,False
+SO-0167,2026-04-29,Summit Cement Ltd,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,16,5869.98,93919.68,Rep C,2026-05-12,2026-05-10,Fulfilled,11.0,-2.0,False
+SO-0282,2026-04-29,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,19,7764.96,147534.24,Rep C,2026-05-10,2026-05-09,Fulfilled,10.0,-1.0,False
+SO-0375,2026-04-29,Southern Power Corp,Power,Karnataka,SKU-HM01,Hammer - Standard,17,2184.06,37129.02,Rep D,2026-05-12,2026-05-14,Fulfilled,15.0,2.0,True
+SO-0287,2026-04-30,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,16,2248.11,35969.76,Rep D,2026-05-09,2026-05-08,Fulfilled,8.0,-1.0,False
+SO-0376,2026-05-01,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,29,3188.55,92467.95,Rep D,2026-05-14,2026-05-16,Fulfilled,15.0,2.0,True
+SO-0168,2026-05-01,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,15,5772.01,86580.15,Rep C,2026-05-11,2026-05-13,Fulfilled,12.0,2.0,True
+SO-0286,2026-05-01,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,22,2198.53,48367.66,Rep A,2026-05-11,2026-05-14,Fulfilled,13.0,3.0,True
+SO-0170,2026-05-01,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,17,5762.28,97958.76,Rep B,2026-05-14,2026-05-14,Fulfilled,13.0,0.0,False
+SO-0288,2026-05-02,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,23,2183.87,50229.01,Rep D,2026-05-12,2026-05-10,Fulfilled,8.0,-2.0,False
+SO-0172,2026-05-03,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,10,8329.74,83297.4,Rep B,2026-05-12,2026-05-10,Fulfilled,7.0,-2.0,False
+SO-0171,2026-05-03,Summit Cement Ltd,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,15,6047.93,90718.95,Rep B,2026-05-11,2026-05-10,Fulfilled,7.0,-1.0,False
+SO-0407,2026-05-04,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,20,7501.66,150033.2,Rep A,2026-05-14,2026-05-14,Fulfilled,10.0,0.0,False
+SO-0081,2026-05-05,Valley Sugar Mills,Sugar,Maharashtra,SKU-GR01,Grinding Roller - Standard,5,10193.98,50969.9,Rep D,2026-05-14,2026-05-13,Fulfilled,8.0,-1.0,False
+SO-0169,2026-05-06,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,19,8435.29,160270.51,Rep C,2026-05-14,2026-05-14,Fulfilled,8.0,0.0,False
+SO-0377,2026-05-06,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,19,3292.83,62563.77,Rep C,2026-05-13,2026-05-13,Fulfilled,7.0,0.0,False
+SO-0293,2026-05-07,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,29,7661.13,222172.77,Rep C,2026-05-20,2026-05-19,Fulfilled,12.0,-1.0,False
+SO-0291,2026-05-07,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,17,2321.6,39467.2,Rep C,2026-05-20,2026-05-19,Fulfilled,12.0,-1.0,False
+SO-0379,2026-05-07,Lakeside Power Station,Power,Maharashtra,SKU-HM01,Hammer - Standard,47,2205.51,103658.97,Rep D,2026-05-16,2026-05-16,Fulfilled,9.0,0.0,False
+SO-0292,2026-05-07,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,23,7555.02,173765.46,Rep B,2026-05-20,2026-05-20,Fulfilled,13.0,0.0,False
+SO-0174,2026-05-08,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,13,8568.82,111394.66,Rep A,2026-05-18,2026-05-21,Fulfilled,13.0,3.0,True
+SO-0175,2026-05-08,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,16,5932.17,94914.72,Rep A,2026-05-21,2026-05-19,Fulfilled,11.0,-2.0,False
+SO-0289,2026-05-09,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,21,2228.25,46793.25,Rep B,2026-05-21,2026-05-23,Fulfilled,14.0,2.0,True
+SO-0290,2026-05-09,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,25,4455.45,111386.25,Rep B,2026-05-21,2026-05-19,Fulfilled,10.0,-2.0,False
+SO-0380,2026-05-09,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,49,2173.3,106491.7,Rep D,2026-05-21,2026-05-20,Fulfilled,11.0,-1.0,False
+SO-0173,2026-05-10,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,10,7350.42,73504.2,Rep C,2026-05-20,2026-05-18,Fulfilled,8.0,-2.0,False
+SO-0378,2026-05-10,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,26,2178.81,56649.06,Rep D,2026-05-21,2026-05-22,Fulfilled,12.0,1.0,True
+SO-0176,2026-05-11,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,20,7664.43,153288.6,Rep B,2026-05-19,2026-05-22,Fulfilled,11.0,3.0,True
+SO-0178,2026-05-12,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,22,5712.29,125670.38,Rep B,2026-05-21,2026-05-22,Fulfilled,10.0,1.0,True
+SO-0177,2026-05-13,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,36,5864.01,211104.36,Rep A,2026-05-25,2026-05-23,Fulfilled,10.0,-2.0,False
+SO-0294,2026-05-14,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,22,7577.34,166701.48,Rep A,2026-05-24,2026-05-24,Fulfilled,10.0,0.0,False
+SO-0182,2026-05-14,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,12,5914.38,70972.56,Rep C,2026-05-28,2026-05-29,Fulfilled,15.0,1.0,True
+SO-0381,2026-05-14,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,33,2196.63,72488.79,Rep B,2026-05-23,2026-05-23,Fulfilled,9.0,0.0,False
+SO-0384,2026-05-15,Lakeside Power Station,Power,Maharashtra,SKU-WP01,Wear Plate,15,3094.6,46419.0,Rep D,2026-05-26,2026-05-24,Fulfilled,9.0,-2.0,False
+SO-0298,2026-05-15,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,28,4490.54,125735.12,Rep A,2026-05-26,2026-05-29,Fulfilled,14.0,3.0,True
+SO-0297,2026-05-15,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,40,2186.3,87452.0,Rep B,2026-05-24,2026-05-26,Fulfilled,11.0,2.0,True
+SO-0382,2026-05-16,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,39,3066.57,119596.23,Rep D,2026-05-25,2026-05-28,Fulfilled,12.0,3.0,True
+SO-0180,2026-05-16,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML01,Mill Liner - Standard,25,5703.45,142586.25,Rep D,2026-05-29,2026-05-27,Fulfilled,11.0,-2.0,False
+SO-0295,2026-05-17,Eastern Ore & Minerals,Mining,Odisha,SKU-HM01,Hammer - Standard,46,2208.52,101591.92,Rep D,2026-05-30,2026-05-30,Fulfilled,13.0,0.0,False
+SO-0179,2026-05-18,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,21,8287.18,174030.78,Rep A,2026-05-31,2026-05-30,Fulfilled,12.0,-1.0,False
+SO-0383,2026-05-19,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,35,2220.29,77710.15,Rep D,2026-05-27,2026-05-30,Fulfilled,11.0,3.0,True
+SO-0181,2026-05-19,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,8,7453.59,59628.72,Rep A,2026-05-28,2026-05-29,Fulfilled,10.0,1.0,True
+SO-0296,2026-05-19,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,42,2215.48,93050.16,Rep D,2026-05-31,2026-05-29,Fulfilled,10.0,-2.0,False
+SO-0183,2026-05-19,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,17,8394.62,142708.54,Rep A,2026-06-01,2026-05-31,Fulfilled,12.0,-1.0,False
+SO-0385,2026-05-21,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,28,2245.23,62866.44,Rep D,2026-05-30,2026-06-01,Returned-Rework,11.0,2.0,True
+SO-0300,2026-05-21,Eastern Ore & Minerals,Mining,Odisha,SKU-HM02,Shredder Hammer,24,4470.9,107301.6,Rep C,2026-06-02,2026-06-04,Fulfilled,14.0,2.0,True
+SO-0186,2026-05-21,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,13,8282.45,107671.85,Rep A,2026-05-30,2026-06-01,Fulfilled,11.0,2.0,True
+SO-0184,2026-05-23,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,10,8250.44,82504.4,Rep C,2026-06-06,2026-06-04,Fulfilled,12.0,-2.0,False
+SO-0185,2026-05-23,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,14,8264.92,115708.88,Rep D,2026-06-01,2026-06-03,Fulfilled,11.0,2.0,True
+SO-0301,2026-05-23,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,26,2214.62,57580.12,Rep C,2026-06-01,2026-06-02,Fulfilled,10.0,1.0,True
+SO-0303,2026-05-23,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,18,7486.66,134759.88,Rep A,2026-06-06,2026-06-04,Fulfilled,12.0,-2.0,False
+SO-0299,2026-05-24,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,41,2165.17,88771.97,Rep A,2026-06-02,2026-06-03,Fulfilled,10.0,1.0,True
+SO-0187,2026-05-24,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,32,5909.01,189088.32,Rep D,2026-06-01,2026-06-01,Fulfilled,8.0,0.0,False
+SO-0386,2026-05-24,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,13,3128.57,40671.41,Rep B,2026-06-01,2026-06-02,Fulfilled,9.0,1.0,True
+SO-0302,2026-05-27,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,27,7567.59,204324.93,Rep A,2026-06-04,2026-06-05,Fulfilled,9.0,1.0,True
+SO-0190,2026-05-28,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,25,7274.4,181860.0,Rep A,2026-06-08,2026-06-07,Fulfilled,10.0,-1.0,False
+SO-0192,2026-05-29,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,6,8693.98,52163.88,Rep B,2026-06-05,2026-06-06,Fulfilled,8.0,1.0,True
+SO-0306,2026-05-31,Eastern Ore & Minerals,Mining,Odisha,SKU-CR01,Crusher Liner,22,7527.68,165608.96,Rep B,2026-06-11,2026-06-11,Fulfilled,11.0,0.0,False
+SO-0307,2026-05-31,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,14,7728.89,108204.46,Rep A,2026-06-07,2026-06-06,Fulfilled,6.0,-1.0,False
+SO-0389,2026-05-31,Northgate Thermal Power,Power,Maharashtra,SKU-HM01,Hammer - Standard,44,2256.4,99281.6,Rep C,2026-06-07,2026-06-07,Fulfilled,7.0,0.0,False
+SO-0305,2026-06-01,Midland Mines,Mining,Maharashtra,SKU-HM02,Shredder Hammer,15,4391.82,65877.3,Rep A,2026-06-15,2026-06-17,Fulfilled,16.0,2.0,True
+SO-0387,2026-06-01,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,59,2167.58,127887.22,Rep D,2026-06-15,2026-06-18,Fulfilled,17.0,3.0,True
+SO-0388,2026-06-01,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,14,3162.67,44277.38,Rep D,2026-06-10,2026-06-08,Fulfilled,7.0,-2.0,False
+SO-0189,2026-06-01,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,7,8296.07,58072.49,Rep D,2026-06-08,2026-06-09,Fulfilled,8.0,1.0,True
+SO-0304,2026-06-02,Midland Mines,Mining,Maharashtra,SKU-CR01,Crusher Liner,7,7567.21,52970.47,Rep A,2026-06-14,2026-06-12,Fulfilled,10.0,-2.0,False
+SO-0188,2026-06-02,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,10,7652.32,76523.2,Rep D,2026-06-16,2026-06-14,Fulfilled,12.0,-2.0,False
+SO-0193,2026-06-02,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,5,7607.42,38037.1,Rep C,2026-06-11,2026-06-12,Fulfilled,10.0,1.0,True
+SO-0082,2026-06-03,Greenfield Sugar Works,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,8,7553.34,60426.72,Rep D,2026-06-17,2026-06-17,Fulfilled,14.0,0.0,False
+SO-0191,2026-06-03,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,21,7540.73,158355.33,Rep A,2026-06-16,2026-06-15,Fulfilled,12.0,-1.0,False
+SO-0197,2026-06-04,Ridgeline Cement Works,Cement,Maharashtra,SKU-CR01,Crusher Liner,19,7788.82,147987.58,Rep D,2026-06-15,2026-06-15,Fulfilled,11.0,0.0,False
+SO-0391,2026-06-05,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,18,3143.23,56578.14,Rep A,2026-06-14,2026-06-16,Fulfilled,11.0,2.0,True
+SO-0195,2026-06-06,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,11,7698.5,84683.5,Rep C,2026-06-15,2026-06-16,Fulfilled,10.0,1.0,True
+SO-0311,2026-06-06,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,24,2144.35,51464.4,Rep A,2026-06-19,2026-06-22,Fulfilled,16.0,3.0,True
+SO-0194,2026-06-07,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,8,8340.26,66722.08,Rep D,2026-06-17,2026-06-19,Fulfilled,12.0,2.0,True
+SO-0392,2026-06-07,Lakeside Power Station,Power,Maharashtra,SKU-HM01,Hammer - Standard,22,2193.0,48246.0,Rep C,2026-06-14,2026-06-13,Fulfilled,6.0,-1.0,False
+SO-0308,2026-06-08,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,36,2179.55,78463.8,Rep D,2026-06-21,2026-06-22,Fulfilled,14.0,1.0,True
+SO-0309,2026-06-08,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,43,2177.2,93619.6,Rep A,2026-06-19,2026-06-17,Fulfilled,9.0,-2.0,False
+SO-0390,2026-06-08,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,21,2180.58,45792.18,Rep B,2026-06-20,2026-06-19,Fulfilled,11.0,-1.0,False
+SO-0310,2026-06-08,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,52,2103.24,109368.48,Rep C,2026-06-19,2026-06-21,Fulfilled,13.0,2.0,True
+SO-0312,2026-06-08,Granite Ridge Mining,Mining,Karnataka,SKU-HM02,Shredder Hammer,30,4251.62,127548.6,Rep A,2026-06-17,2026-06-18,Fulfilled,10.0,1.0,True
+SO-0198,2026-06-08,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,23,8175.06,188026.38,Rep B,2026-06-19,2026-06-21,Fulfilled,13.0,2.0,True
+SO-0196,2026-06-09,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,10,7757.38,77573.8,Rep D,2026-06-19,2026-06-21,Fulfilled,12.0,2.0,True
+SO-0313,2026-06-09,Highland Minerals,Mining,Maharashtra,SKU-HM02,Shredder Hammer,13,4602.08,59827.04,Rep A,2026-06-23,2026-06-26,Fulfilled,17.0,3.0,True
+SO-0204,2026-06-11,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,12,8061.88,96742.56,Rep A,2026-06-23,2026-06-21,Fulfilled,10.0,-2.0,False
+SO-0202,2026-06-11,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,15,7964.05,119460.75,Rep C,2026-06-25,2026-06-26,Fulfilled,15.0,1.0,True
+SO-0396,2026-06-12,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,36,3183.92,114621.12,Rep D,2026-06-23,2026-06-25,Fulfilled,13.0,2.0,True
+SO-0393,2026-06-13,Westfield Power Plant,Power,Maharashtra,SKU-WP01,Wear Plate,22,3060.06,67321.32,Rep C,2026-06-24,2026-06-27,Fulfilled,14.0,3.0,True
+SO-0203,2026-06-14,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,16,8542.03,136672.48,Rep B,2026-06-22,,Cancelled,,,False
+SO-0317,2026-06-14,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,43,2241.96,96404.28,Rep C,2026-06-24,2026-06-26,Fulfilled,12.0,2.0,True
+SO-0394,2026-06-14,Westfield Power Plant,Power,Maharashtra,SKU-HM01,Hammer - Standard,56,2126.59,119089.04,Rep C,2026-06-26,2026-06-25,Fulfilled,11.0,-1.0,False
+SO-0083,2026-06-14,Greenfield Sugar Works,Sugar,Maharashtra,SKU-SR01,Mill Roller Shaft,4,7571.21,30284.84,Rep C,2026-06-21,2026-06-24,Fulfilled,10.0,3.0,True
+SO-0199,2026-06-14,Summit Cement Ltd,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,13,8513.01,110669.13,Rep B,2026-06-23,2026-06-23,Fulfilled,9.0,0.0,False
+SO-0404,2026-06-15,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,28,7653.39,214294.92,Rep D,2026-06-27,2026-06-28,Fulfilled,13.0,1.0,True
+SO-0200,2026-06-16,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,15,8384.06,125760.9,Rep A,2026-06-26,2026-06-24,Fulfilled,8.0,-2.0,False
+SO-0315,2026-06-16,Granite Ridge Mining,Mining,Karnataka,SKU-HM01,Hammer - Standard,56,2164.59,121217.04,Rep C,2026-06-24,2026-06-24,Fulfilled,8.0,0.0,False
+SO-0395,2026-06-17,Lakeside Power Station,Power,Maharashtra,SKU-HM01,Hammer - Standard,15,2108.95,31634.25,Rep A,2026-06-25,2026-06-28,Fulfilled,11.0,3.0,True
+SO-0314,2026-06-17,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,30,2163.03,64890.9,Rep A,2026-06-27,2026-06-29,Fulfilled,12.0,2.0,True
+SO-0316,2026-06-17,Midland Mines,Mining,Maharashtra,SKU-HM02,Shredder Hammer,22,4330.18,95263.96,Rep C,2026-06-25,2026-06-27,Fulfilled,10.0,2.0,True
+SO-0318,2026-06-18,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,21,7558.7,158732.7,Rep A,2026-07-01,,Pending,,,False
+SO-0205,2026-06-19,Summit Cement Ltd,Cement,Maharashtra,SKU-CR01,Crusher Liner,29,7615.23,220841.67,Rep B,2026-06-27,2026-06-26,Fulfilled,7.0,-1.0,False
+SO-0321,2026-06-19,Midland Mines,Mining,Maharashtra,SKU-HM02,Shredder Hammer,28,4375.28,122507.84,Rep C,2026-06-29,,Pending,,,False
+SO-0322,2026-06-19,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,28,7626.84,213551.52,Rep A,2026-06-30,,Pending,,,False
+SO-0399,2026-06-19,Lakeside Power Station,Power,Maharashtra,SKU-HM01,Hammer - Standard,44,2154.55,94800.2,Rep A,2026-07-01,,Pending,,,False
+SO-0209,2026-06-20,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,26,7738.53,201201.78,Rep D,2026-06-28,,Pending,,,False
+SO-0206,2026-06-20,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,16,5944.18,95106.88,Rep A,2026-07-01,,Pending,,,False
+SO-0207,2026-06-21,Harbour Cement,Cement,Chhattisgarh,SKU-ML02,Mill Liner - Heavy Duty,24,8041.5,192996.0,Rep C,2026-06-30,,Pending,,,False
+SO-0323,2026-06-22,Granite Ridge Mining,Mining,Karnataka,SKU-CR01,Crusher Liner,18,7898.16,142166.88,Rep B,2026-07-06,,Pending,,,False
+SO-0210,2026-06-22,Harbour Cement,Cement,Chhattisgarh,SKU-ML01,Mill Liner - Standard,19,5989.34,113797.46,Rep B,2026-07-06,,Pending,,,False
+SO-0319,2026-06-22,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,26,2152.39,55962.14,Rep B,2026-07-01,,Pending,,,False
+SO-0208,2026-06-22,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,16,8483.24,135731.84,Rep B,2026-07-06,,Pending,,,False
+SO-0320,2026-06-23,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,56,2173.81,121733.36,Rep C,2026-07-02,,Pending,,,False
+SO-0084,2026-06-23,Greenfield Sugar Works,Sugar,Maharashtra,SKU-BS01,Bush & Bearing Sleeve,26,3010.54,78274.04,Rep D,2026-07-01,,Pending,,,False
+SO-0397,2026-06-24,Southern Power Corp,Power,Karnataka,SKU-WP01,Wear Plate,13,3136.86,40779.18,Rep A,2026-07-04,,Pending,,,False
+SO-0398,2026-06-24,Lakeside Power Station,Power,Maharashtra,SKU-WP01,Wear Plate,34,3122.12,106152.08,Rep B,2026-07-03,,Pending,,,False
+SO-0214,2026-06-25,Summit Cement Ltd,Cement,Maharashtra,SKU-ML01,Mill Liner - Standard,32,5756.31,184201.92,Rep B,2026-07-02,,Pending,,,False
+SO-0328,2026-06-26,Eastern Ore & Minerals,Mining,Odisha,SKU-CR01,Crusher Liner,5,7806.89,39034.45,Rep C,2026-07-08,,Pending,,,False
+SO-0401,2026-06-26,Lakeside Power Station,Power,Maharashtra,SKU-HM01,Hammer - Standard,26,2258.45,58719.7,Rep B,2026-07-10,,Pending,,,False
+SO-0215,2026-06-26,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-CR01,Crusher Liner,11,7723.73,84961.03,Rep B,2026-07-03,,Pending,,,False
+SO-0212,2026-06-26,Keystone Cement Corp,Cement,Madhya Pradesh,SKU-ML02,Mill Liner - Heavy Duty,17,8328.69,141587.73,Rep C,2026-07-08,,Pending,,,False
+SO-0324,2026-06-27,Highland Minerals,Mining,Maharashtra,SKU-CR01,Crusher Liner,17,7637.61,129839.37,Rep B,2026-07-07,,Pending,,,False
+SO-0213,2026-06-27,Ridgeline Cement Works,Cement,Maharashtra,SKU-ML02,Mill Liner - Heavy Duty,7,8519.17,59634.19,Rep C,2026-07-10,,Pending,,,False
+SO-0400,2026-06-28,Northgate Thermal Power,Power,Maharashtra,SKU-WP01,Wear Plate,39,3040.01,118560.39,Rep D,2026-07-12,,Pending,,,False
+SO-0326,2026-06-29,Eastern Ore & Minerals,Mining,Odisha,SKU-CR01,Crusher Liner,12,7787.52,93450.24,Rep B,2026-07-09,,Pending,,,False
+SO-0211,2026-06-29,Harbour Cement,Cement,Chhattisgarh,SKU-CR01,Crusher Liner,11,7450.97,81960.67,Rep C,2026-07-10,,Pending,,,False
+SO-0325,2026-06-30,Highland Minerals,Mining,Maharashtra,SKU-HM01,Hammer - Standard,38,2207.9,83900.2,Rep B,2026-07-14,,Pending,,,False
+SO-0327,2026-06-30,Midland Mines,Mining,Maharashtra,SKU-HM01,Hammer - Standard,27,2262.4,61084.8,Rep A,2026-07-07,,Pending,,,False
